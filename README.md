@@ -1,2 +1,6 @@
-# IITC_PoGO-PoIs
-Pokémon GO PoIs for IITC Pogo-Tools
+# Komunitná zbierka PoI v Pokémon GO
+Označené PokéStopy & Gymy pre IITC Pogo-tools
+
+---
+
+*Info vo výstavbe...*
