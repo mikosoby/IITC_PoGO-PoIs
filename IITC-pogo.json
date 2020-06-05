@@ -937,6 +937,309 @@
       "lat": 48.147541,
       "lng": 17.147426,
       "name": "Mlyn"
+    },
+    "c46d329f0ca747768f2a0ddec6108795.12": {
+      "guid": "c46d329f0ca747768f2a0ddec6108795.12",
+      "lat": 48.150555,
+      "lng": 17.061691,
+      "name": "fontána hríbiky"
+    },
+    "29e66c7c01884469af9d9fe47a5f2b17.11": {
+      "guid": "29e66c7c01884469af9d9fe47a5f2b17.11",
+      "lat": 48.150062,
+      "lng": 17.049557,
+      "name": "Hand"
+    },
+    "95260992c8a14b98853294d4f2ca46b2.16": {
+      "guid": "95260992c8a14b98853294d4f2ca46b2.16",
+      "lat": 48.15317,
+      "lng": 17.04973,
+      "name": "Square Fountain "
+    },
+    "e7a301516d4d4549af25bbc28542f2b4.16": {
+      "guid": "e7a301516d4d4549af25bbc28542f2b4.16",
+      "lat": 48.155016,
+      "lng": 17.048077,
+      "name": "Playground"
+    },
+    "9182bee748d043e19d639187bd9d49ec.11": {
+      "guid": "9182bee748d043e19d639187bd9d49ec.11",
+      "lat": 48.152737,
+      "lng": 17.052112,
+      "name": "Pub Maják"
+    },
+    "cb41356291b144b7b0ef99c15d8247c1.16": {
+      "guid": "cb41356291b144b7b0ef99c15d8247c1.16",
+      "lat": 48.153409,
+      "lng": 17.061315,
+      "name": "Relief Poliklinika"
+    },
+    "a7035b3f5fb344a6a39a25c7708d58a8.16": {
+      "guid": "a7035b3f5fb344a6a39a25c7708d58a8.16",
+      "lat": 48.157894,
+      "lng": 17.065026,
+      "name": "Angel Elam Club"
+    },
+    "16e7f9fd48f244c48a316ea0daaeecbf.16": {
+      "guid": "16e7f9fd48f244c48a316ea0daaeecbf.16",
+      "lat": 48.157347,
+      "lng": 17.055152,
+      "name": "Preliezka"
+    },
+    "77b1d4c052d84a938d44c7581dbc83b4.16": {
+      "guid": "77b1d4c052d84a938d44c7581dbc83b4.16",
+      "lat": 48.159386,
+      "lng": 17.05263,
+      "name": "Fontana"
+    },
+    "b965d3a3dd35480d8140e1d61e921620.16": {
+      "guid": "b965d3a3dd35480d8140e1d61e921620.16",
+      "lat": 48.151599,
+      "lng": 17.059486,
+      "name": "Osemcipa Fontana"
+    },
+    "aa948a6deda94c13b866f222bc41ce83.16": {
+      "guid": "aa948a6deda94c13b866f222bc41ce83.16",
+      "lat": 48.150394,
+      "lng": 17.059086,
+      "name": "Kaplnka"
+    },
+    "19503afd9a5c42cb89fe0428225d7af9.16": {
+      "guid": "19503afd9a5c42cb89fe0428225d7af9.16",
+      "lat": 48.149207,
+      "lng": 17.053758,
+      "name": "humana donation box hany melickovej"
+    },
+    "7247674228e84498aef310351e60077d.16": {
+      "guid": "7247674228e84498aef310351e60077d.16",
+      "lat": 48.15091,
+      "lng": 17.061832,
+      "name": "Kostol"
+    },
+    "f0e588cd2a934c4089ac83587b162432.16": {
+      "guid": "f0e588cd2a934c4089ac83587b162432.16",
+      "lat": 48.147337,
+      "lng": 17.061776,
+      "name": "Panáčiky"
+    },
+    "0a92e0a3369d4136a3b3c2b8a3065f59.16": {
+      "guid": "0a92e0a3369d4136a3b3c2b8a3065f59.16",
+      "lat": 48.146913,
+      "lng": 17.060778,
+      "name": "Lezecka Veza"
+    },
+    "a4d5b54ecc6647358b00d6c44493c301.16": {
+      "guid": "a4d5b54ecc6647358b00d6c44493c301.16",
+      "lat": 48.147254,
+      "lng": 17.067404,
+      "name": "Ihrisko"
+    },
+    "2c8492ec6e7f4451a6a2960188348e70.16": {
+      "guid": "2c8492ec6e7f4451a6a2960188348e70.16",
+      "lat": 48.154475,
+      "lng": 17.068331,
+      "name": "sitting girl"
+    },
+    "6804676bff5844628acc7b89d8fd028c.16": {
+      "guid": "6804676bff5844628acc7b89d8fd028c.16",
+      "lat": 48.151084,
+      "lng": 17.068455,
+      "name": "trap 24"
+    },
+    "04764f5e7fd34484bd6e0f2a32d4062f.16": {
+      "guid": "04764f5e7fd34484bd6e0f2a32d4062f.16",
+      "lat": 48.157067,
+      "lng": 17.067308,
+      "name": "Memorial"
+    },
+    "8b3e03c4f2e94d808b2bd2dd793ca1c6.16": {
+      "guid": "8b3e03c4f2e94d808b2bd2dd793ca1c6.16",
+      "lat": 48.157638,
+      "lng": 17.067961,
+      "name": "Vincent Hložník - busta"
+    },
+    "ca59076ced5947bfb100eee3e7faa053.16": {
+      "guid": "ca59076ced5947bfb100eee3e7faa053.16",
+      "lat": 48.156596,
+      "lng": 17.042386,
+      "name": "Monument Dlháče"
+    },
+    "0a5cb9419bc1422a9ba176adaddd2bd9.16": {
+      "guid": "0a5cb9419bc1422a9ba176adaddd2bd9.16",
+      "lat": 48.156627,
+      "lng": 17.042334,
+      "name": "Havo"
+    },
+    "437268667dc040b1a72cb3a953cb3905.16": {
+      "guid": "437268667dc040b1a72cb3a953cb3905.16",
+      "lat": 48.159872,
+      "lng": 17.04861,
+      "name": "Bubakove Ihrisko"
+    },
+    "ccdefd12b64c49298ec6a3ec9579b686.16": {
+      "guid": "ccdefd12b64c49298ec6a3ec9579b686.16",
+      "lat": 48.159774,
+      "lng": 17.049594,
+      "name": "Graffiti Fox"
+    },
+    "0d39c110c3254a0c8b12acf6bef441df.16": {
+      "guid": "0d39c110c3254a0c8b12acf6bef441df.16",
+      "lat": 48.162091,
+      "lng": 17.048912,
+      "name": "Graffiti dano"
+    },
+    "c3a5535ce8a54d0fbf3f8f05ee9b3723.16": {
+      "guid": "c3a5535ce8a54d0fbf3f8f05ee9b3723.16",
+      "lat": 48.162538,
+      "lng": 17.049258,
+      "name": "Graffiti Daor"
+    },
+    "d9929a5d09d74f26901773a4693dafd2.16": {
+      "guid": "d9929a5d09d74f26901773a4693dafd2.16",
+      "lat": 48.165431,
+      "lng": 17.051769,
+      "name": "Park SNP 2"
+    },
+    "e0282f9d91504c52b59c4bab25467167.16": {
+      "guid": "e0282f9d91504c52b59c4bab25467167.16",
+      "lat": 48.158698,
+      "lng": 17.06444,
+      "name": "Beer Man"
+    },
+    "f5e23a720ca44e7b9a62de24664231e0.16": {
+      "guid": "f5e23a720ca44e7b9a62de24664231e0.16",
+      "lat": 48.14521,
+      "lng": 17.078457,
+      "name": "La Fenice"
+    },
+    "137d04e2ce5047818f9a72380e0e1280.16": {
+      "guid": "137d04e2ce5047818f9a72380e0e1280.16",
+      "lat": 48.144892,
+      "lng": 17.078305,
+      "name": "FTVŠ UK"
+    },
+    "dbbd018e566d4ca2a532dfe053aef20b.16": {
+      "guid": "dbbd018e566d4ca2a532dfe053aef20b.16",
+      "lat": 48.151561,
+      "lng": 17.072825,
+      "name": "FEI Monument",
+      "isEx": true
+    },
+    "96f7a4569e3d41e9bc427cfe9c319853.16": {
+      "guid": "96f7a4569e3d41e9bc427cfe9c319853.16",
+      "lat": 48.149623,
+      "lng": 17.074993,
+      "name": "4 Fakulty"
+    },
+    "ba3d431c214840af8d80fdf7ebe1886d.16": {
+      "guid": "ba3d431c214840af8d80fdf7ebe1886d.16",
+      "lat": 48.143477,
+      "lng": 17.080741,
+      "name": "Výskumný ústav vodného hospodárstva"
+    },
+    "a15eb7c6876f4ac38c433363dede5d32.16": {
+      "guid": "a15eb7c6876f4ac38c433363dede5d32.16",
+      "lat": 48.153965,
+      "lng": 17.046887,
+      "name": "Modern Playground"
+    },
+    "95e4bb836fe342aa9bd61a4bd7ecc356.16": {
+      "guid": "95e4bb836fe342aa9bd61a4bd7ecc356.16",
+      "lat": 48.154519,
+      "lng": 17.041297,
+      "name": "Humana Donation Box"
+    },
+    "89a3c5c314254f61bd04dad71fa14eb8.11": {
+      "guid": "89a3c5c314254f61bd04dad71fa14eb8.11",
+      "lat": 48.161863,
+      "lng": 17.054927,
+      "name": "Park SNP"
+    },
+    "f1da7f3de9954c8aa009a1fc24d55fcc.16": {
+      "guid": "f1da7f3de9954c8aa009a1fc24d55fcc.16",
+      "lat": 48.160277,
+      "lng": 17.052645,
+      "name": "Raketa"
+    },
+    "f782dce3d61745ff89d39d54dc830d5d.16": {
+      "guid": "f782dce3d61745ff89d39d54dc830d5d.16",
+      "lat": 48.173209,
+      "lng": 17.050333,
+      "name": "Kupalisko Rosnicka"
+    },
+    "ddf0fe7de95047e29c629a12532139c4.16": {
+      "guid": "ddf0fe7de95047e29c629a12532139c4.16",
+      "lat": 48.152995,
+      "lng": 17.070529,
+      "name": "diskgolfove ihrisko fmfi uk hole 18"
+    },
+    "d3059a1384c64a38a59b4a7a3ea3710b.16": {
+      "guid": "d3059a1384c64a38a59b4a7a3ea3710b.16",
+      "lat": 48.156237,
+      "lng": 17.075684,
+      "name": "Vstup do Zoo"
+    },
+    "ccfd30b9860049f49be56577feaf03bc.16": {
+      "guid": "ccfd30b9860049f49be56577feaf03bc.16",
+      "lat": 48.159137,
+      "lng": 17.066195,
+      "name": "Hodiny na Sturaku",
+      "isEx": true
+    },
+    "8ad0d0e949664afda676af2e11a38676.16": {
+      "guid": "8ad0d0e949664afda676af2e11a38676.16",
+      "lat": 48.147824,
+      "lng": 17.043344,
+      "name": "Secesný Kaštieľ"
+    },
+    "d8f9109c13c6448f8630432b4e27eae3.16": {
+      "guid": "d8f9109c13c6448f8630432b4e27eae3.16",
+      "lat": 48.151685,
+      "lng": 17.061036,
+      "name": "miestna kniznica karlova ves"
+    },
+    "ea0a50025d484ff4936bf8949bf7f48a.16": {
+      "guid": "ea0a50025d484ff4936bf8949bf7f48a.16",
+      "lat": 48.166248,
+      "lng": 17.057783,
+      "name": "NchS - lesný ekosystém a človek"
+    },
+    "3a0d426798e94e07ae4f507b046e7ec5.16": {
+      "guid": "3a0d426798e94e07ae4f507b046e7ec5.16",
+      "lat": 48.173744,
+      "lng": 17.056198,
+      "name": "NChS - historicke uzemie"
+    },
+    "802536e7438345119ec752d9e8179c56.16": {
+      "guid": "802536e7438345119ec752d9e8179c56.16",
+      "lat": 49.107019,
+      "lng": 18.934816,
+      "name": "Detske Ihrisko"
+    },
+    "1c959d3527934542a9a2d60e8a9862ca.16": {
+      "guid": "1c959d3527934542a9a2d60e8a9862ca.16",
+      "lat": 49.105703,
+      "lng": 18.924405,
+      "name": "mozajka na SOSD"
+    },
+    "8e05a729bd7a43e88f3e26ba93dfc232.16": {
+      "guid": "8e05a729bd7a43e88f3e26ba93dfc232.16",
+      "lat": 49.105778,
+      "lng": 18.923471,
+      "name": "Lokomotiva"
+    },
+    "8a3fa10e0dd2404ea2c952defd5f425c.16": {
+      "guid": "8a3fa10e0dd2404ea2c952defd5f425c.16",
+      "lat": 49.106099,
+      "lng": 18.925476,
+      "name": "Oceľový Les"
+    },
+    "021f20cd53e748a7b3f75abfb283fdd8.16": {
+      "guid": "021f20cd53e748a7b3f75abfb283fdd8.16",
+      "lat": 48.161902,
+      "lng": 17.050044,
+      "name": "Blue dog",
+      "isEx": true
     }
   },
   "pokestops": {
@@ -5391,6 +5694,1200 @@
       "lat": 48.137612,
       "lng": 17.11699,
       "name": "Vantage Point Old Bridge"
+    },
+    "07ea6209c8c149cd8382d2b70fb19801.16": {
+      "guid": "07ea6209c8c149cd8382d2b70fb19801.16",
+      "lat": 48.152449,
+      "lng": 17.052616,
+      "name": "Hojdacka"
+    },
+    "b7963cb7b6ee4455a03415589b0182eb.16": {
+      "guid": "b7963cb7b6ee4455a03415589b0182eb.16",
+      "lat": 48.150015,
+      "lng": 17.061989,
+      "name": "Pamatnik"
+    },
+    "54311f87e6bf43a9b39d21e3c9fda15f.16": {
+      "guid": "54311f87e6bf43a9b39d21e3c9fda15f.16",
+      "lat": 48.152654,
+      "lng": 17.057373,
+      "name": "Preliezka"
+    },
+    "e39d69abddcb46b6a5db921b380a63b5.16": {
+      "guid": "e39d69abddcb46b6a5db921b380a63b5.16",
+      "lat": 48.149882,
+      "lng": 17.048811,
+      "name": "Hudci"
+    },
+    "2bb2810a24ee4c8b965e8a0fb3beab88.16": {
+      "guid": "2bb2810a24ee4c8b965e8a0fb3beab88.16",
+      "lat": 48.149879,
+      "lng": 17.050969,
+      "name": "Ihrisko Na Kruhu"
+    },
+    "63ee5d5b93b54fd6aeeae744a96f3158.16": {
+      "guid": "63ee5d5b93b54fd6aeeae744a96f3158.16",
+      "lat": 48.150967,
+      "lng": 17.050008,
+      "name": "Playground"
+    },
+    "9ea33a6f0481492bb50300e673b1386a.16": {
+      "guid": "9ea33a6f0481492bb50300e673b1386a.16",
+      "lat": 48.150636,
+      "lng": 17.046803,
+      "name": "Ihrisko so smykalkou"
+    },
+    "e60f5c09ed904828b9587f3a91e63b38.16": {
+      "guid": "e60f5c09ed904828b9587f3a91e63b38.16",
+      "lat": 48.153597,
+      "lng": 17.049862,
+      "name": "detske ihrisko"
+    },
+    "31e03c56a5894861964b2dc7d3332218.16": {
+      "guid": "31e03c56a5894861964b2dc7d3332218.16",
+      "lat": 48.154323,
+      "lng": 17.056032,
+      "name": "future pyramid"
+    },
+    "9667a2795d5a4ab8bd830784c7195ce9.16": {
+      "guid": "9667a2795d5a4ab8bd830784c7195ce9.16",
+      "lat": 48.1544,
+      "lng": 17.05878,
+      "name": "Humana Donation Box Segnerova"
+    },
+    "deead5b5c27a45ae946b522daa4960e3.16": {
+      "guid": "deead5b5c27a45ae946b522daa4960e3.16",
+      "lat": 48.154167,
+      "lng": 17.061223,
+      "name": "Základný Kameň (1972)Polikliniky Karlova Ves"
+    },
+    "01369dc539b24033a1ffd7b626ac0810.12": {
+      "guid": "01369dc539b24033a1ffd7b626ac0810.12",
+      "lat": 48.153374,
+      "lng": 17.060215,
+      "name": "knizna Hlava"
+    },
+    "9c68e1949ab844c891bff047abdeac9d.16": {
+      "guid": "9c68e1949ab844c891bff047abdeac9d.16",
+      "lat": 48.155801,
+      "lng": 17.058142,
+      "name": "Preliezačky "
+    },
+    "f7c6a909831545bb8acb89fcb3021d23.16": {
+      "guid": "f7c6a909831545bb8acb89fcb3021d23.16",
+      "lat": 48.155352,
+      "lng": 17.059262,
+      "name": "Ihrisko aluplay"
+    },
+    "e9ae56d60b9b483d8caeaf0a6205042e.16": {
+      "guid": "e9ae56d60b9b483d8caeaf0a6205042e.16",
+      "lat": 48.157729,
+      "lng": 17.0578,
+      "name": "Cajovna"
+    },
+    "26a6b3b3ce1d42228a53facfc630c890.16": {
+      "guid": "26a6b3b3ce1d42228a53facfc630c890.16",
+      "lat": 48.157126,
+      "lng": 17.05381,
+      "name": "ihrisko fadruzsova"
+    },
+    "d20ba5a44f8f4bc3a8691bb1013b3bdf.16": {
+      "guid": "d20ba5a44f8f4bc3a8691bb1013b3bdf.16",
+      "lat": 48.156272,
+      "lng": 17.052318,
+      "name": "Green Octopus"
+    },
+    "927e45212bce488aa67ff16045a67155.16": {
+      "guid": "927e45212bce488aa67ff16045a67155.16",
+      "lat": 48.157832,
+      "lng": 17.052976,
+      "name": "KV_GraffitiCar"
+    },
+    "9b9bff19efb045ce8fe9a94a0ceb56c8.16": {
+      "guid": "9b9bff19efb045ce8fe9a94a0ceb56c8.16",
+      "lat": 48.15827,
+      "lng": 17.053541,
+      "name": "Playground Karloveská"
+    },
+    "07c6cedfefc24eb2b6e2ce0c2477634c.16": {
+      "guid": "07c6cedfefc24eb2b6e2ce0c2477634c.16",
+      "lat": 48.156437,
+      "lng": 17.054789,
+      "name": "Konik Zeleny"
+    },
+    "c673bca12d53489b8da79f723da63352.16": {
+      "guid": "c673bca12d53489b8da79f723da63352.16",
+      "lat": 48.155922,
+      "lng": 17.054997,
+      "name": "detske ihrisko"
+    },
+    "d998e8d31c064220932fa872217a915a.16": {
+      "guid": "d998e8d31c064220932fa872217a915a.16",
+      "lat": 48.155336,
+      "lng": 17.055041,
+      "name": "Plaground Tilgnerova"
+    },
+    "819f6d244a7347bd9728bf8a51e0682d.12": {
+      "guid": "819f6d244a7347bd9728bf8a51e0682d.12",
+      "lat": 48.15548,
+      "lng": 17.056238,
+      "name": "Fraňo Kráľ"
+    },
+    "abc6a55d13e84c46af2b947e9d4800b3.16": {
+      "guid": "abc6a55d13e84c46af2b947e9d4800b3.16",
+      "lat": 48.159684,
+      "lng": 17.052073,
+      "name": "Maria Na Skle"
+    },
+    "d337fa4f31ff46e294ab06dfb865f9e9.16": {
+      "guid": "d337fa4f31ff46e294ab06dfb865f9e9.16",
+      "lat": 48.159257,
+      "lng": 17.052014,
+      "name": "Kostol nam. Sv. Frantiska"
+    },
+    "52b32feb42724965b9abbaacb3fd843f.16": {
+      "guid": "52b32feb42724965b9abbaacb3fd843f.16",
+      "lat": 48.152476,
+      "lng": 17.059666,
+      "name": "Detske Ihrisko Nabelkova"
+    },
+    "c4d1611bfd4f4334a81b00eb9a14b1f8.16": {
+      "guid": "c4d1611bfd4f4334a81b00eb9a14b1f8.16",
+      "lat": 48.152299,
+      "lng": 17.059079,
+      "name": "Outside Gym Adamiho"
+    },
+    "bdf8514bcde3401b99cd69db06cfadfe.16": {
+      "guid": "bdf8514bcde3401b99cd69db06cfadfe.16",
+      "lat": 48.151699,
+      "lng": 17.060071,
+      "name": "Len Dva Kone Vrané"
+    },
+    "491fe786e6dc402fb3650eab18c5cbcf.16": {
+      "guid": "491fe786e6dc402fb3650eab18c5cbcf.16",
+      "lat": 48.150526,
+      "lng": 17.058691,
+      "name": "Placuca Socha"
+    },
+    "0bbddaa0280244ea8ffc82cfbcef1251.16": {
+      "guid": "0bbddaa0280244ea8ffc82cfbcef1251.16",
+      "lat": 48.150821,
+      "lng": 17.060565,
+      "name": "zajko"
+    },
+    "6a724cf238d743549f8b2d5cc4577f56.16": {
+      "guid": "6a724cf238d743549f8b2d5cc4577f56.16",
+      "lat": 48.149308,
+      "lng": 17.057861,
+      "name": "detské ihrisko Janotova"
+    },
+    "bb33e240d04c4725a7ac4d0eb8c81c72.16": {
+      "guid": "bb33e240d04c4725a7ac4d0eb8c81c72.16",
+      "lat": 48.14964,
+      "lng": 17.05548,
+      "name": "Novodobe Umenie"
+    },
+    "3168c6641e084a458440dc9c37b1a117.16": {
+      "guid": "3168c6641e084a458440dc9c37b1a117.16",
+      "lat": 48.15034,
+      "lng": 17.052956,
+      "name": "Detské Ihrisko Toro Park"
+    },
+    "85a293930a454136a696e3656a2ed7f2.16": {
+      "guid": "85a293930a454136a696e3656a2ed7f2.16",
+      "lat": 48.149158,
+      "lng": 17.052789,
+      "name": "Tava"
+    },
+    "598f1e77032a4d85996735a06fedbd97.16": {
+      "guid": "598f1e77032a4d85996735a06fedbd97.16",
+      "lat": 48.148996,
+      "lng": 17.051894,
+      "name": "Cvicisko Psov"
+    },
+    "81cb957003264c36a80c65adbcc5d6bf.16": {
+      "guid": "81cb957003264c36a80c65adbcc5d6bf.16",
+      "lat": 48.152122,
+      "lng": 17.0571,
+      "name": "Kresba Veterinar"
+    },
+    "0520f7d2d13c4527acc3539a35933950.16": {
+      "guid": "0520f7d2d13c4527acc3539a35933950.16",
+      "lat": 48.152967,
+      "lng": 17.057115,
+      "name": "Fontána "
+    },
+    "e534ea55ea1d4c97a9b2dc8922b9b115.16": {
+      "guid": "e534ea55ea1d4c97a9b2dc8922b9b115.16",
+      "lat": 48.149334,
+      "lng": 17.061806,
+      "name": "futbalovy klub mladeze karlova ves"
+    },
+    "e2c4d3a16c5d4ef0b7ad5cccbecfb9e7.16": {
+      "guid": "e2c4d3a16c5d4ef0b7ad5cccbecfb9e7.16",
+      "lat": 48.149609,
+      "lng": 17.060864,
+      "name": "Futbalové ihrisko"
+    },
+    "b7e9e758a5264a8e8bbca9182bdb0a5f.16": {
+      "guid": "b7e9e758a5264a8e8bbca9182bdb0a5f.16",
+      "lat": 48.15035,
+      "lng": 17.061181,
+      "name": "Playground Molecova"
+    },
+    "a4199c7814924b989159b2ba6257653e.16": {
+      "guid": "a4199c7814924b989159b2ba6257653e.16",
+      "lat": 48.149742,
+      "lng": 17.062584,
+      "name": "blue windows"
+    },
+    "38846ad63cce49f7ae0ef3a3dc6818a3.16": {
+      "guid": "38846ad63cce49f7ae0ef3a3dc6818a3.16",
+      "lat": 48.14814,
+      "lng": 17.064629,
+      "name": "Remiáš Memorial"
+    },
+    "71d53c48a83c481ea2533150548c5382.16": {
+      "guid": "71d53c48a83c481ea2533150548c5382.16",
+      "lat": 48.148007,
+      "lng": 17.063324,
+      "name": "Vodarenske Muzeum"
+    },
+    "fa7c6020e05940518882d6afadfdcd1e.16": {
+      "guid": "fa7c6020e05940518882d6afadfdcd1e.16",
+      "lat": 48.147673,
+      "lng": 17.062646,
+      "name": "Znak Mesta Bratislava"
+    },
+    "2b4754a0e7ad4582abb9ea06e7d8d47b.16": {
+      "guid": "2b4754a0e7ad4582abb9ea06e7d8d47b.16",
+      "lat": 48.147512,
+      "lng": 17.06223,
+      "name": "História a súčasnosť vodárenskej záhrady"
+    },
+    "d721804ebf3f4c59835d6e7eb859c415.16": {
+      "guid": "d721804ebf3f4c59835d6e7eb859c415.16",
+      "lat": 48.146926,
+      "lng": 17.062262,
+      "name": "Barón Wolfgang Kempelen"
+    },
+    "cadf7eff0a8940aab9f2edc97d7c2f83.16": {
+      "guid": "cadf7eff0a8940aab9f2edc97d7c2f83.16",
+      "lat": 48.147042,
+      "lng": 17.062151,
+      "name": "Fontana Dievca zabijak"
+    },
+    "38dc740b8b7f412183ca7ce22a49af2b.16": {
+      "guid": "38dc740b8b7f412183ca7ce22a49af2b.16",
+      "lat": 48.147012,
+      "lng": 17.060273,
+      "name": "Cerpadlo Pleuger"
+    },
+    "d34a2459a55b4fb9acda6321f2f0486c.16": {
+      "guid": "d34a2459a55b4fb9acda6321f2f0486c.16",
+      "lat": 48.146916,
+      "lng": 17.059243,
+      "name": "Cerpadlo Sigma"
+    },
+    "7aad5a6c50174c6f962524c0b274b416.16": {
+      "guid": "7aad5a6c50174c6f962524c0b274b416.16",
+      "lat": 48.146879,
+      "lng": 17.063494,
+      "name": "Rak"
+    },
+    "d4ef0fb6237d4257a594b4f3f094dbee.16": {
+      "guid": "d4ef0fb6237d4257a594b4f3f094dbee.16",
+      "lat": 48.145892,
+      "lng": 17.069473,
+      "name": "Mark Twain Kotva"
+    },
+    "a3a5bebc7137480c9cb8b2de6ce1f187.16": {
+      "guid": "a3a5bebc7137480c9cb8b2de6ce1f187.16",
+      "lat": 48.145641,
+      "lng": 17.069605,
+      "name": "Lod na suchu"
+    },
+    "6f1df9a3b9a646578bc0e24f08b7a612.16": {
+      "guid": "6f1df9a3b9a646578bc0e24f08b7a612.16",
+      "lat": 48.15203,
+      "lng": 17.062933,
+      "name": "Jehova Vitnesses Church"
+    },
+    "9897b904bba94e0380214746216340d0.16": {
+      "guid": "9897b904bba94e0380214746216340d0.16",
+      "lat": 48.156161,
+      "lng": 17.066012,
+      "name": "big stone cross"
+    },
+    "8003753efdb64dbbb0b27d28863c08d3.16": {
+      "guid": "8003753efdb64dbbb0b27d28863c08d3.16",
+      "lat": 48.150859,
+      "lng": 17.067435,
+      "name": "Fakla"
+    },
+    "618f1d12f9ea42a8ae9da23945462440.16": {
+      "guid": "618f1d12f9ea42a8ae9da23945462440.16",
+      "lat": 48.151134,
+      "lng": 17.071505,
+      "name": "Pentaglyph"
+    },
+    "57e45542ea72436299a20c686a93401c.16": {
+      "guid": "57e45542ea72436299a20c686a93401c.16",
+      "lat": 48.157076,
+      "lng": 17.067766,
+      "name": "Mirko Nešpor Pamätník"
+    },
+    "f39649efc57a479c94051b269bce6a21.16": {
+      "guid": "f39649efc57a479c94051b269bce6a21.16",
+      "lat": 48.156509,
+      "lng": 17.06855,
+      "name": "man with cross"
+    },
+    "3bf157e13f654869a82724e23ee5a0d9.16": {
+      "guid": "3bf157e13f654869a82724e23ee5a0d9.16",
+      "lat": 48.155715,
+      "lng": 17.070482,
+      "name": "dievca s kvetmi"
+    },
+    "87aa9fd4e0b748c9a128a4c728f19598.16": {
+      "guid": "87aa9fd4e0b748c9a128a4c728f19598.16",
+      "lat": 48.156561,
+      "lng": 17.071666,
+      "name": "Stv"
+    },
+    "a0accf97981a48799ec488e61bb767e8.16": {
+      "guid": "a0accf97981a48799ec488e61bb767e8.16",
+      "lat": 48.157743,
+      "lng": 17.069134,
+      "name": "M. R. Stefanik Graffiti"
+    },
+    "b7d06f56e54e47ba91e9c420b7c3c696.16": {
+      "guid": "b7d06f56e54e47ba91e9c420b7c3c696.16",
+      "lat": 48.157987,
+      "lng": 17.069803,
+      "name": "Galeria "
+    },
+    "69aaa7f8eff44033a3f5f081201da8f6.16": {
+      "guid": "69aaa7f8eff44033a3f5f081201da8f6.16",
+      "lat": 48.157825,
+      "lng": 17.070465,
+      "name": "Eiffel Tower"
+    },
+    "94a4aecb5a0f41c587730226b4d5a65a.16": {
+      "guid": "94a4aecb5a0f41c587730226b4d5a65a.16",
+      "lat": 48.151979,
+      "lng": 17.049381,
+      "name": "humana donation box namestie dlhe diely"
+    },
+    "2137a94c8ede47ed95ef0e4224ebeb2d.16": {
+      "guid": "2137a94c8ede47ed95ef0e4224ebeb2d.16",
+      "lat": 48.151349,
+      "lng": 17.048087,
+      "name": "Detske ihrisko"
+    },
+    "07d60a0a67264777af4f839330d8592f.16": {
+      "guid": "07d60a0a67264777af4f839330d8592f.16",
+      "lat": 48.152568,
+      "lng": 17.049792,
+      "name": "Playground Dlhé Diely"
+    },
+    "ee9b5d10f85b47a28ab4d9b0bdac4c99.16": {
+      "guid": "ee9b5d10f85b47a28ab4d9b0bdac4c99.16",
+      "lat": 48.154611,
+      "lng": 17.051471,
+      "name": "Šmykľavka medzi blokmi"
+    },
+    "c09e963b461d45e4896e4f03265deb32.16": {
+      "guid": "c09e963b461d45e4896e4f03265deb32.16",
+      "lat": 48.153771,
+      "lng": 17.04399,
+      "name": "Cvičisko pre ľudí"
+    },
+    "689ba6946b8f4965aaffd430c8058592.16": {
+      "guid": "689ba6946b8f4965aaffd430c8058592.16",
+      "lat": 48.151543,
+      "lng": 17.045651,
+      "name": "Grafity"
+    },
+    "e9517069ebbe4f4fa8031e46bb206aff.16": {
+      "guid": "e9517069ebbe4f4fa8031e46bb206aff.16",
+      "lat": 48.151515,
+      "lng": 17.045973,
+      "name": "Grafity"
+    },
+    "b8b43d3948474904a9be6e29875eec28.16": {
+      "guid": "b8b43d3948474904a9be6e29875eec28.16",
+      "lat": 48.156619,
+      "lng": 17.042415,
+      "name": "fit gym"
+    },
+    "b378abc98a5e431580f4db33466f13e1.16": {
+      "guid": "b378abc98a5e431580f4db33466f13e1.16",
+      "lat": 48.157453,
+      "lng": 17.046445,
+      "name": "humana donation box "
+    },
+    "a2442ae9f20e45339f6d83c47a331bd0.16": {
+      "guid": "a2442ae9f20e45339f6d83c47a331bd0.16",
+      "lat": 48.158162,
+      "lng": 17.04604,
+      "name": "Slnečné hodiny"
+    },
+    "831f185a61914d1e9f1b135038b5204a.16": {
+      "guid": "831f185a61914d1e9f1b135038b5204a.16",
+      "lat": 48.160334,
+      "lng": 17.048229,
+      "name": "Pavúk"
+    },
+    "60880b8d6a4d440993b61a2be3cc3884.16": {
+      "guid": "60880b8d6a4d440993b61a2be3cc3884.16",
+      "lat": 48.159843,
+      "lng": 17.050307,
+      "name": "Mäsiareň Jurišta"
+    },
+    "e9294d12e92b417b8e55309934382834.16": {
+      "guid": "e9294d12e92b417b8e55309934382834.16",
+      "lat": 48.16169,
+      "lng": 17.04692,
+      "name": "Ihrisko Levarska"
+    },
+    "c99a3f541a774b418bafb091a8d4f9cc.16": {
+      "guid": "c99a3f541a774b418bafb091a8d4f9cc.16",
+      "lat": 48.162123,
+      "lng": 17.0465,
+      "name": "Ihrisko Domceky"
+    },
+    "2ad171a58d0c4bf986e521695fb0e96c.16": {
+      "guid": "2ad171a58d0c4bf986e521695fb0e96c.16",
+      "lat": 48.163161,
+      "lng": 17.050458,
+      "name": "Ihrisko pupavova"
+    },
+    "d469d9249d924bf2b62c6dad2a7d09f6.16": {
+      "guid": "d469d9249d924bf2b62c6dad2a7d09f6.16",
+      "lat": 48.16356,
+      "lng": 17.050032,
+      "name": "Hojdačky"
+    },
+    "4dfe79443051474aad701758188bb3df.16": {
+      "guid": "4dfe79443051474aad701758188bb3df.16",
+      "lat": 48.163694,
+      "lng": 17.049094,
+      "name": "Playground"
+    },
+    "7f9208c05bb94597ab6107e87fe8c68f.16": {
+      "guid": "7f9208c05bb94597ab6107e87fe8c68f.16",
+      "lat": 48.164405,
+      "lng": 17.048939,
+      "name": "Tri prasiatka"
+    },
+    "8aa7673a0d3149bfaa13683161dafbd2.16": {
+      "guid": "8aa7673a0d3149bfaa13683161dafbd2.16",
+      "lat": 48.164573,
+      "lng": 17.050385,
+      "name": "preliezka"
+    },
+    "eb3fabd9dfc6423785bfcdd6b4fb74e1.16": {
+      "guid": "eb3fabd9dfc6423785bfcdd6b4fb74e1.16",
+      "lat": 48.163802,
+      "lng": 17.052065,
+      "name": "Vangel SNP"
+    },
+    "002840ecf121452bad2ece4eaaf17143.16": {
+      "guid": "002840ecf121452bad2ece4eaaf17143.16",
+      "lat": 48.164625,
+      "lng": 17.051954,
+      "name": "Lezecka Veza"
+    },
+    "50ea8b8d9dff4f628253f2d644a29a3b.11": {
+      "guid": "50ea8b8d9dff4f628253f2d644a29a3b.11",
+      "lat": 48.163669,
+      "lng": 17.053109,
+      "name": "Lisciak KV"
+    },
+    "d9343dab69fb420dac587e019804c512.11": {
+      "guid": "d9343dab69fb420dac587e019804c512.11",
+      "lat": 48.169756,
+      "lng": 17.050969,
+      "name": "QSI International School"
+    },
+    "c123ff3d7d844c5c8b2feded5f0fa10d.16": {
+      "guid": "c123ff3d7d844c5c8b2feded5f0fa10d.16",
+      "lat": 48.152321,
+      "lng": 17.066295,
+      "name": "diskgolfove ihrisko fmfi uk hole 10"
+    },
+    "e257fc08b93a4a8da3b719ceac816f7c.16": {
+      "guid": "e257fc08b93a4a8da3b719ceac816f7c.16",
+      "lat": 48.152393,
+      "lng": 17.066982,
+      "name": "diskgolfove ihrisko fmfi uk hole 11"
+    },
+    "111e21580e9741468a80ed96059dc5ab.16": {
+      "guid": "111e21580e9741468a80ed96059dc5ab.16",
+      "lat": 48.151329,
+      "lng": 17.067277,
+      "name": "diskgolfove ihrisko fmfi uk hole 6"
+    },
+    "2a8b5c3345eb46ada6aa5ea36ad963db.16": {
+      "guid": "2a8b5c3345eb46ada6aa5ea36ad963db.16",
+      "lat": 48.151675,
+      "lng": 17.068023,
+      "name": "diskgolfove ihrisko fmfi hole 13"
+    },
+    "d5a63d51a8674a5d85163efdb3eddb71.16": {
+      "guid": "d5a63d51a8674a5d85163efdb3eddb71.16",
+      "lat": 48.152218,
+      "lng": 17.068157,
+      "name": "diskgolfove ihrisko fmfi hole 12"
+    },
+    "6c3d351b581a4ced9296f674a2d954cd.16": {
+      "guid": "6c3d351b581a4ced9296f674a2d954cd.16",
+      "lat": 48.154122,
+      "lng": 17.056926,
+      "name": "Ihrisko Tilgnerka"
+    },
+    "8ce6875cf20a4c3699f515420ce5aaf8.16": {
+      "guid": "8ce6875cf20a4c3699f515420ce5aaf8.16",
+      "lat": 48.144799,
+      "lng": 17.075391,
+      "name": "Strom a rieka"
+    },
+    "6847c0293c27484c95d7baff3db8d69d.16": {
+      "guid": "6847c0293c27484c95d7baff3db8d69d.16",
+      "lat": 48.143927,
+      "lng": 17.076321,
+      "name": "Futbalové ihrisko FTVŠ"
+    },
+    "3d851bca401b46c5bc714600f1038957.16": {
+      "guid": "3d851bca401b46c5bc714600f1038957.16",
+      "lat": 48.144078,
+      "lng": 17.077132,
+      "name": "športová hala prof.Rovného"
+    },
+    "36e7ad3b633947ee868208ad8a0d92b7.16": {
+      "guid": "36e7ad3b633947ee868208ad8a0d92b7.16",
+      "lat": 48.144515,
+      "lng": 17.077766,
+      "name": "Štadión Prof. Kuchena"
+    },
+    "995c6026199d4432af4b71798c244fba.16": {
+      "guid": "995c6026199d4432af4b71798c244fba.16",
+      "lat": 48.146784,
+      "lng": 17.061734,
+      "name": "Karloveské rameno"
+    },
+    "ffa5e298038547baa2f6b9592793cbcd.16": {
+      "guid": "ffa5e298038547baa2f6b9592793cbcd.16",
+      "lat": 48.146493,
+      "lng": 17.069349,
+      "name": "StreetWorkout Družba"
+    },
+    "31e6ee44ff4740e583614c3f0539fc34.16": {
+      "guid": "31e6ee44ff4740e583614c3f0539fc34.16",
+      "lat": 48.144589,
+      "lng": 17.072212,
+      "name": "Tenis Botanická"
+    },
+    "f21d198928bb489495af086129c2cdac.16": {
+      "guid": "f21d198928bb489495af086129c2cdac.16",
+      "lat": 48.14673,
+      "lng": 17.068808,
+      "name": "Tenis Družba"
+    },
+    "7963642ff43549fba96eacac89b0861e.16": {
+      "guid": "7963642ff43549fba96eacac89b0861e.16",
+      "lat": 48.14738,
+      "lng": 17.072403,
+      "name": "Botanicka Zahrada UK"
+    },
+    "6ea390ba3de54b03af76c95c5c4e7df7.16": {
+      "guid": "6ea390ba3de54b03af76c95c5c4e7df7.16",
+      "lat": 48.147856,
+      "lng": 17.072712,
+      "name": "Eurovelo Sign"
+    },
+    "1646b8cb0e5248f48656335ad91d99a5.16": {
+      "guid": "1646b8cb0e5248f48656335ad91d99a5.16",
+      "lat": 48.147513,
+      "lng": 17.071264,
+      "name": "Snake"
+    },
+    "6f42b56c2d5c4b9c85f50f1f6b9eb92f.16": {
+      "guid": "6f42b56c2d5c4b9c85f50f1f6b9eb92f.16",
+      "lat": 48.147387,
+      "lng": 17.070706,
+      "name": "Postavicky pri Druzbe"
+    },
+    "baa77ee8ae76474cbdaf9c7650c46548.16": {
+      "guid": "baa77ee8ae76474cbdaf9c7650c46548.16",
+      "lat": 48.147542,
+      "lng": 17.065332,
+      "name": "Kotva"
+    },
+    "16a6a4b1bdd44560b6a8ea98ff2186b5.16": {
+      "guid": "16a6a4b1bdd44560b6a8ea98ff2186b5.16",
+      "lat": 48.148476,
+      "lng": 17.067981,
+      "name": "Kríž Svrčia"
+    },
+    "863c6c1fb92f46739fe97de626f410c7.16": {
+      "guid": "863c6c1fb92f46739fe97de626f410c7.16",
+      "lat": 48.150364,
+      "lng": 17.068307,
+      "name": "Discgolf Nr.6"
+    },
+    "38edfb2673b64be59c2f9cea79acdd05.16": {
+      "guid": "38edfb2673b64be59c2f9cea79acdd05.16",
+      "lat": 48.150909,
+      "lng": 17.06831,
+      "name": "diskgolfove ihrisko fmfi uk hole 7"
+    },
+    "99c67b6bc7184d19bb13217bd37cd5af.16": {
+      "guid": "99c67b6bc7184d19bb13217bd37cd5af.16",
+      "lat": 48.151809,
+      "lng": 17.071573,
+      "name": "Diskgolfove ihrisko hole 1"
+    },
+    "a0b6f048a34040d5b838a3743073d3dc.16": {
+      "guid": "a0b6f048a34040d5b838a3743073d3dc.16",
+      "lat": 48.151776,
+      "lng": 17.071034,
+      "name": "diskgolfove ihrisko fmfi hole 3"
+    },
+    "ebdb339af49d4ab99f3c6396c7510a08.16": {
+      "guid": "ebdb339af49d4ab99f3c6396c7510a08.16",
+      "lat": 48.151126,
+      "lng": 17.070083,
+      "name": "MatFyz UK Bratislave"
+    },
+    "bc5e698cbaf94da3a584421287c499f7.16": {
+      "guid": "bc5e698cbaf94da3a584421287c499f7.16",
+      "lat": 48.147734,
+      "lng": 17.07651,
+      "name": "Afraid of bee"
+    },
+    "517c0dde237c4cf3bcf6fd6e1b92a27c.16": {
+      "guid": "517c0dde237c4cf3bcf6fd6e1b92a27c.16",
+      "lat": 48.149718,
+      "lng": 17.073192,
+      "name": "Divná socha v Mlynskej"
+    },
+    "998a5ca6c8eb4dc58d57ff425afed413.16": {
+      "guid": "998a5ca6c8eb4dc58d57ff425afed413.16",
+      "lat": 48.150034,
+      "lng": 17.072901,
+      "name": "Univerzitny Vedecky Park UK BA"
+    },
+    "4e6c7420be0e4223a4d9a61ebc6802d8.16": {
+      "guid": "4e6c7420be0e4223a4d9a61ebc6802d8.16",
+      "lat": 48.150067,
+      "lng": 17.071843,
+      "name": "Prírodovedecká fakulta UK"
+    },
+    "c5d7dfcf57094b1bb294bceedfe45e7c.16": {
+      "guid": "c5d7dfcf57094b1bb294bceedfe45e7c.16",
+      "lat": 48.148999,
+      "lng": 17.072865,
+      "name": "Loď"
+    },
+    "c791a74343d245e08d1fe43c6ded8dd4.16": {
+      "guid": "c791a74343d245e08d1fe43c6ded8dd4.16",
+      "lat": 48.148915,
+      "lng": 17.071473,
+      "name": "Altánok"
+    },
+    "5fd91da9aa1944dda2f63c4d02b57a5c.16": {
+      "guid": "5fd91da9aa1944dda2f63c4d02b57a5c.16",
+      "lat": 48.142817,
+      "lng": 17.081219,
+      "name": "Red Porsche 911 Carrera"
+    },
+    "73ab0a3cbd504005bfcfab634013f46a.16": {
+      "guid": "73ab0a3cbd504005bfcfab634013f46a.16",
+      "lat": 48.142038,
+      "lng": 17.085134,
+      "name": "Krokodíl"
+    },
+    "aca415b1e269460db96b7fb3b079c288.16": {
+      "guid": "aca415b1e269460db96b7fb3b079c288.16",
+      "lat": 48.152191,
+      "lng": 17.073288,
+      "name": "Dvaja"
+    },
+    "98c33c37628343358d4b50fe830bae09.16": {
+      "guid": "98c33c37628343358d4b50fe830bae09.16",
+      "lat": 48.150442,
+      "lng": 17.057477,
+      "name": "Ihrisko so smykalkou"
+    },
+    "42c77c38257e435e99c358e7647eda3a.16": {
+      "guid": "42c77c38257e435e99c358e7647eda3a.16",
+      "lat": 48.149612,
+      "lng": 17.057845,
+      "name": "Minigolf Karlovka"
+    },
+    "0a8790cfb45741ca8c9614c328030844.16": {
+      "guid": "0a8790cfb45741ca8c9614c328030844.16",
+      "lat": 48.150098,
+      "lng": 17.057409,
+      "name": "Splash"
+    },
+    "21cba8f7545548a2953a76076acbb0ba.16": {
+      "guid": "21cba8f7545548a2953a76076acbb0ba.16",
+      "lat": 48.147105,
+      "lng": 17.061026,
+      "name": "Pirátska loď"
+    },
+    "984c45fa2b574414b1e0fbf90ffba6aa.16": {
+      "guid": "984c45fa2b574414b1e0fbf90ffba6aa.16",
+      "lat": 48.152478,
+      "lng": 17.055132,
+      "name": "3D painting"
+    },
+    "ad73630b384a49669b44f5724c6ba29c.16": {
+      "guid": "ad73630b384a49669b44f5724c6ba29c.16",
+      "lat": 48.151469,
+      "lng": 17.051133,
+      "name": "Hojdacky"
+    },
+    "db687114eac6445a97871b1cf3a3ef64.16": {
+      "guid": "db687114eac6445a97871b1cf3a3ef64.16",
+      "lat": 48.148919,
+      "lng": 17.055409,
+      "name": "playground Meličkovej"
+    },
+    "8a1d5563802b421384b694d4b47df3c4.16": {
+      "guid": "8a1d5563802b421384b694d4b47df3c4.16",
+      "lat": 48.152556,
+      "lng": 17.051227,
+      "name": "Yellow Slide Playground"
+    },
+    "d28a86b6aeab46cebf00c8b302a7e84e.16": {
+      "guid": "d28a86b6aeab46cebf00c8b302a7e84e.16",
+      "lat": 48.154789,
+      "lng": 17.047151,
+      "name": "Street Workout Majernikova"
+    },
+    "266616ef093c4c31aa98719a98423804.16": {
+      "guid": "266616ef093c4c31aa98719a98423804.16",
+      "lat": 48.155081,
+      "lng": 17.040701,
+      "name": "Swing for kids"
+    },
+    "bb65190f1b6b4ccb98730d59245bdeaa.16": {
+      "guid": "bb65190f1b6b4ccb98730d59245bdeaa.16",
+      "lat": 48.154888,
+      "lng": 17.055516,
+      "name": "Fitko"
+    },
+    "5c2a4dc831a141f3af0992ee37d15798.16": {
+      "guid": "5c2a4dc831a141f3af0992ee37d15798.16",
+      "lat": 48.156363,
+      "lng": 17.052756,
+      "name": "Zlty bager"
+    },
+    "538b96b73b48447b9771f84b4daf42a7.16": {
+      "guid": "538b96b73b48447b9771f84b4daf42a7.16",
+      "lat": 48.159181,
+      "lng": 17.052471,
+      "name": "ihrisko"
+    },
+    "af83dafe73974fc1a8f01259d4b7a9fa.16": {
+      "guid": "af83dafe73974fc1a8f01259d4b7a9fa.16",
+      "lat": 48.16106,
+      "lng": 17.051978,
+      "name": "multifunkcne ihrisko"
+    },
+    "599236ed26594a65b3c10e469b4393e3.16": {
+      "guid": "599236ed26594a65b3c10e469b4393e3.16",
+      "lat": 48.160319,
+      "lng": 17.055083,
+      "name": "Giftier Cafe"
+    },
+    "b776c58c543e4b79b81f385749f091b2.16": {
+      "guid": "b776c58c543e4b79b81f385749f091b2.16",
+      "lat": 48.162122,
+      "lng": 17.054735,
+      "name": "ParkWorkout"
+    },
+    "71543ea483c8401c9c5629c3756c958a.16": {
+      "guid": "71543ea483c8401c9c5629c3756c958a.16",
+      "lat": 48.161305,
+      "lng": 17.054859,
+      "name": "Historicke okienko parku SNP"
+    },
+    "ce7f9351e6054242a05f3abd857ff445.16": {
+      "guid": "ce7f9351e6054242a05f3abd857ff445.16",
+      "lat": 48.162995,
+      "lng": 17.053929,
+      "name": "Fitko v parku"
+    },
+    "4ab1efd031504b66aecdada0b836a216.16": {
+      "guid": "4ab1efd031504b66aecdada0b836a216.16",
+      "lat": 48.162351,
+      "lng": 17.049878,
+      "name": "Pošta 43"
+    },
+    "d8e451bf4cb4436b88e85179c6c79b0e.16": {
+      "guid": "d8e451bf4cb4436b88e85179c6c79b0e.16",
+      "lat": 48.165366,
+      "lng": 17.04845,
+      "name": "Dance"
+    },
+    "7d36fb8e58914b32ab8f65779b6b382c.16": {
+      "guid": "7d36fb8e58914b32ab8f65779b6b382c.16",
+      "lat": 48.161573,
+      "lng": 17.060991,
+      "name": "Na Sitine"
+    },
+    "149476b0d22d4e859dd7b26f54fd6eaa.16": {
+      "guid": "149476b0d22d4e859dd7b26f54fd6eaa.16",
+      "lat": 48.161606,
+      "lng": 17.054925,
+      "name": "Okruh líščak-sitina"
+    },
+    "90acd775418c40a59f916b9eb8c9798f.16": {
+      "guid": "90acd775418c40a59f916b9eb8c9798f.16",
+      "lat": 48.157938,
+      "lng": 17.047686,
+      "name": "Ihrisko Beniakova"
+    },
+    "527e321fa57f40c2a94fe860513c806c.16": {
+      "guid": "527e321fa57f40c2a94fe860513c806c.16",
+      "lat": 48.170327,
+      "lng": 17.052181,
+      "name": "Bikros park"
+    },
+    "94e40be8e9ac4360997c4053b6fc3baf.16": {
+      "guid": "94e40be8e9ac4360997c4053b6fc3baf.16",
+      "lat": 48.172542,
+      "lng": 17.055059,
+      "name": "NchS - zvierata a vtaci"
+    },
+    "199cbbde0cd44b71bb0b3c7bef06e266.16": {
+      "guid": "199cbbde0cd44b71bb0b3c7bef06e266.16",
+      "lat": 48.173636,
+      "lng": 17.049986,
+      "name": "3 pierka chvost nerobia"
+    },
+    "7e87f9ce271f4a719c09801c05663880.16": {
+      "guid": "7e87f9ce271f4a719c09801c05663880.16",
+      "lat": 48.17477,
+      "lng": 17.049186,
+      "name": "Modra buda"
+    },
+    "7cf7bdc4822b4a629b37421822a036f9.16": {
+      "guid": "7cf7bdc4822b4a629b37421822a036f9.16",
+      "lat": 48.168899,
+      "lng": 17.057918,
+      "name": "NChS - dreviny"
+    },
+    "59a2ca0d0e37408f9fcb4e0d5dcde55d.16": {
+      "guid": "59a2ca0d0e37408f9fcb4e0d5dcde55d.16",
+      "lat": 48.152475,
+      "lng": 17.070768,
+      "name": "akademik Jur Hronec"
+    },
+    "34b41b8edcc14a7aa1471559585dbc92.12": {
+      "guid": "34b41b8edcc14a7aa1471559585dbc92.12",
+      "lat": 48.152183,
+      "lng": 17.071552,
+      "name": "Copernicus Statue"
+    },
+    "0fe35019ff4a49a8922cf1d61491c764.16": {
+      "guid": "0fe35019ff4a49a8922cf1d61491c764.16",
+      "lat": 48.151863,
+      "lng": 17.073411,
+      "name": "slovenska technicka univerzita fei"
+    },
+    "20191321c7f441e09166e657f5ea6adb.16": {
+      "guid": "20191321c7f441e09166e657f5ea6adb.16",
+      "lat": 48.152823,
+      "lng": 17.073754,
+      "name": "Stefan Schwarz"
+    },
+    "ab1f062a61b5484ab7eb859d968c3bfa.16": {
+      "guid": "ab1f062a61b5484ab7eb859d968c3bfa.16",
+      "lat": 48.153893,
+      "lng": 17.073925,
+      "name": "Old Electric Engine"
+    },
+    "d9aa07db28774240abea46cdc2f68c1e.16": {
+      "guid": "d9aa07db28774240abea46cdc2f68c1e.16",
+      "lat": 48.155239,
+      "lng": 17.075732,
+      "name": "Zoo"
+    },
+    "8e19da73676e4049bc4bd6059a389810.16": {
+      "guid": "8e19da73676e4049bc4bd6059a389810.16",
+      "lat": 48.155228,
+      "lng": 17.073557,
+      "name": "Websupport Fontanka"
+    },
+    "ca6feb2e56194d08a60b58a9d1115b2c.16": {
+      "guid": "ca6feb2e56194d08a60b58a9d1115b2c.16",
+      "lat": 48.155635,
+      "lng": 17.072919,
+      "name": "Binarium"
+    },
+    "a18d52076fa5496abb284770613a80ce.12": {
+      "guid": "a18d52076fa5496abb284770613a80ce.12",
+      "lat": 48.147441,
+      "lng": 17.069803,
+      "name": "Družba - čítajúca pred vchodom"
+    },
+    "0d7d25283682485ca7f802824bc73f89.16": {
+      "guid": "0d7d25283682485ca7f802824bc73f89.16",
+      "lat": 48.159428,
+      "lng": 17.06483,
+      "name": "Workout Space Mlyny"
+    },
+    "24a199b12b424732813f836f83a12419.16": {
+      "guid": "24a199b12b424732813f836f83a12419.16",
+      "lat": 48.159008,
+      "lng": 17.065832,
+      "name": "New Wooden Art"
+    },
+    "86607f1dbb2143bdb53ca6a6ffdb72ab.16": {
+      "guid": "86607f1dbb2143bdb53ca6a6ffdb72ab.16",
+      "lat": 48.159625,
+      "lng": 17.066255,
+      "name": "Graffiti na Mlynoch"
+    },
+    "5e067d66537a47c2b1ddc41e08a91392.12": {
+      "guid": "5e067d66537a47c2b1ddc41e08a91392.12",
+      "lat": 48.159954,
+      "lng": 17.066567,
+      "name": "závoj"
+    },
+    "2ab739a8e90f457ea31194ec2b47c555.16": {
+      "guid": "2ab739a8e90f457ea31194ec2b47c555.16",
+      "lat": 48.159228,
+      "lng": 17.067225,
+      "name": "Winehead"
+    },
+    "d03cd5d369a343e5a8f7922327c2e1c6.16": {
+      "guid": "d03cd5d369a343e5a8f7922327c2e1c6.16",
+      "lat": 48.158408,
+      "lng": 17.067294,
+      "name": "Kolesa"
+    },
+    "94c62e41eaa44785a370491d835c551d.16": {
+      "guid": "94c62e41eaa44785a370491d835c551d.16",
+      "lat": 48.157657,
+      "lng": 17.067656,
+      "name": "Ludwik Korkos"
+    },
+    "44a81b56c498485881dcf8a9c22749fe.16": {
+      "guid": "44a81b56c498485881dcf8a9c22749fe.16",
+      "lat": 48.157906,
+      "lng": 17.075273,
+      "name": "František Šroufek "
+    },
+    "2989f9af2f9348cfad88be7e34f3ada5.16": {
+      "guid": "2989f9af2f9348cfad88be7e34f3ada5.16",
+      "lat": 48.161302,
+      "lng": 17.048029,
+      "name": "Dalmatínec"
+    },
+    "38bc2f75551a42309c3a4ff6c646d5d8.16": {
+      "guid": "38bc2f75551a42309c3a4ff6c646d5d8.16",
+      "lat": 48.160426,
+      "lng": 17.049023,
+      "name": "workout playground"
+    },
+    "ed1699bf93db437ab82970f169909504.16": {
+      "guid": "ed1699bf93db437ab82970f169909504.16",
+      "lat": 48.162374,
+      "lng": 17.048883,
+      "name": "Karlovka mayors"
+    },
+    "1228038a23884e328831b8f579cf2dc2.16": {
+      "guid": "1228038a23884e328831b8f579cf2dc2.16",
+      "lat": 48.159556,
+      "lng": 17.039995,
+      "name": "Les nie je smetisko"
+    },
+    "9775c3a1af3541e8b9de56720b7b6812.16": {
+      "guid": "9775c3a1af3541e8b9de56720b7b6812.16",
+      "lat": 48.147093,
+      "lng": 17.040639,
+      "name": "Studna"
+    },
+    "75b566efc8ec4e15a869981bb8f993a3.16": {
+      "guid": "75b566efc8ec4e15a869981bb8f993a3.16",
+      "lat": 48.148333,
+      "lng": 17.045045,
+      "name": "Ostrov Sihoť"
+    },
+    "32b988ba0f4e45c99b927ebcf35278d5.16": {
+      "guid": "32b988ba0f4e45c99b927ebcf35278d5.16",
+      "lat": 48.14691,
+      "lng": 17.053184,
+      "name": "face crossed by eaves"
+    },
+    "b10988f6c2c54bb0b1c7b43143d8a6de.16": {
+      "guid": "b10988f6c2c54bb0b1c7b43143d8a6de.16",
+      "lat": 48.151917,
+      "lng": 17.057378,
+      "name": "HockeyBall"
+    },
+    "9710911331b24e68a953379d5821c797.16": {
+      "guid": "9710911331b24e68a953379d5821c797.16",
+      "lat": 48.151481,
+      "lng": 17.057747,
+      "name": "Basketball"
+    },
+    "08c8dc0ae83a44009371ed859776fc97.16": {
+      "guid": "08c8dc0ae83a44009371ed859776fc97.16",
+      "lat": 48.156349,
+      "lng": 17.054385,
+      "name": "Flowers&Butterflies"
+    },
+    "aa9e682463364cdc9d46a92378c369ae.16": {
+      "guid": "aa9e682463364cdc9d46a92378c369ae.16",
+      "lat": 48.155373,
+      "lng": 17.050804,
+      "name": "Sandbox I"
+    },
+    "e0c906a92df140e8b2c58b8702040f87.16": {
+      "guid": "e0c906a92df140e8b2c58b8702040f87.16",
+      "lat": 48.15515,
+      "lng": 17.043866,
+      "name": "Detské ihrisko"
+    },
+    "fd20c54f1dea4a9ea815df192a22908f.16": {
+      "guid": "fd20c54f1dea4a9ea815df192a22908f.16",
+      "lat": 48.159901,
+      "lng": 17.074355,
+      "name": "Bear"
+    },
+    "0cb803229fb94e9895ad2f6df02a0b43.16": {
+      "guid": "0cb803229fb94e9895ad2f6df02a0b43.16",
+      "lat": 48.15983,
+      "lng": 17.073437,
+      "name": "Ape Pavilon"
+    },
+    "fa20804ae53744168998ae0e7626df7b.16": {
+      "guid": "fa20804ae53744168998ae0e7626df7b.16",
+      "lat": 48.160402,
+      "lng": 17.037502,
+      "name": "Kralova Hora Tabula"
+    },
+    "902fd1a7002c4665ba66f70d2ee4d656.16": {
+      "guid": "902fd1a7002c4665ba66f70d2ee4d656.16",
+      "lat": 48.156753,
+      "lng": 17.049749,
+      "name": "Udrzba zelene"
+    },
+    "73f52365fd9d4d6c8f8a97761c5c0e8b.16": {
+      "guid": "73f52365fd9d4d6c8f8a97761c5c0e8b.16",
+      "lat": 49.10717,
+      "lng": 18.93588,
+      "name": "playground"
+    },
+    "bbf8316b38474a1390280578e8959767.16": {
+      "guid": "bbf8316b38474a1390280578e8959767.16",
+      "lat": 49.105885,
+      "lng": 18.934784,
+      "name": "BikePark"
+    },
+    "f053aab54b9d487bab08f23c9a8c3b44.16": {
+      "guid": "f053aab54b9d487bab08f23c9a8c3b44.16",
+      "lat": 49.104051,
+      "lng": 18.935423,
+      "name": "plastika pred neografiou"
+    },
+    "60931ecd521f445981f65b885245cfd0.16": {
+      "guid": "60931ecd521f445981f65b885245cfd0.16",
+      "lat": 49.106324,
+      "lng": 18.930614,
+      "name": "KidsPark"
+    },
+    "b76b0623e9c24e6cbef4cddeef1beb89.16": {
+      "guid": "b76b0623e9c24e6cbef4cddeef1beb89.16",
+      "lat": 49.106055,
+      "lng": 18.923886,
+      "name": "The Eye"
+    },
+    "cf8bc9b5e7c74de780805b8652a8b645.16": {
+      "guid": "cf8bc9b5e7c74de780805b8652a8b645.16",
+      "lat": 49.108848,
+      "lng": 18.930606,
+      "name": "detské ihrisko staré"
+    },
+    "ae011a9c4efa4ec2b646a208cb6eff18.16": {
+      "guid": "ae011a9c4efa4ec2b646a208cb6eff18.16",
+      "lat": 49.106808,
+      "lng": 18.925695,
+      "name": "Staré detské ihrisko"
+    },
+    "cd7d29eb49aa4eea8787b2d7eefe6f50.11": {
+      "guid": "cd7d29eb49aa4eea8787b2d7eefe6f50.11",
+      "lat": 49.106036,
+      "lng": 18.926401,
+      "name": "Cinsky mur"
+    },
+    "1e5ec0d6e99e4d32b5df94d544d8d18c.16": {
+      "guid": "1e5ec0d6e99e4d32b5df94d544d8d18c.16",
+      "lat": 49.106734,
+      "lng": 18.925032,
+      "name": "nové detské ihrisko"
+    },
+    "f69ff95d605c4aaeaa79255981066fef.16": {
+      "guid": "f69ff95d605c4aaeaa79255981066fef.16",
+      "lat": 49.106675,
+      "lng": 18.923417,
+      "name": "abstraktné umenie"
+    },
+    "f9f91a0540c34f1b9a4bc7316fbe2f8d.16": {
+      "guid": "f9f91a0540c34f1b9a4bc7316fbe2f8d.16",
+      "lat": 49.109859,
+      "lng": 18.940721,
+      "name": "Pamätník SNP "
+    },
+    "26c9d6e0a72e4b25adba918b52e1a853.16": {
+      "guid": "26c9d6e0a72e4b25adba918b52e1a853.16",
+      "lat": 48.161833,
+      "lng": 17.046633,
+      "name": "Hokejball Levárska"
+    },
+    "bbfd6790aab84c239009420d368a9252.16": {
+      "guid": "bbfd6790aab84c239009420d368a9252.16",
+      "lat": 48.158825,
+      "lng": 17.075257,
+      "name": "Pelican Playground"
+    },
+    "3356992b71124a14ae29bc7bd8e5ec83.16": {
+      "guid": "3356992b71124a14ae29bc7bd8e5ec83.16",
+      "lat": 48.170335,
+      "lng": 17.051562,
+      "name": "ihrisko Juventa"
+    },
+    "6708324cdecf45bfbaa6cbf2fce16f97.16": {
+      "guid": "6708324cdecf45bfbaa6cbf2fce16f97.16",
+      "lat": 48.141543,
+      "lng": 17.088351,
+      "name": "Skakacka"
+    },
+    "3402eb3d39b149279da6b158a02efa15.16": {
+      "guid": "3402eb3d39b149279da6b158a02efa15.16",
+      "lat": 48.141684,
+      "lng": 17.088974,
+      "name": "Physics Cubes"
+    },
+    "cfef03e557e84912b4a38ee28ede029b.16": {
+      "guid": "cfef03e557e84912b4a38ee28ede029b.16",
+      "lat": 48.161914,
+      "lng": 17.068519,
+      "name": "Hroch a Lev"
+    },
+    "ef964a44781d492a97efe2072074f512.16": {
+      "guid": "ef964a44781d492a97efe2072074f512.16",
+      "lat": 48.162617,
+      "lng": 17.070926,
+      "name": "Pachycephalosaurus"
     }
   },
   "notpogo": {
@@ -5453,6 +6950,138 @@
       "lat": 48.169597,
       "lng": 17.126831,
       "name": "Ministerstvo Spravodlivosti SR"
+    },
+    "0ca2fb09c98c4cb58c3ac5cd9a0bf3bd.16": {
+      "guid": "0ca2fb09c98c4cb58c3ac5cd9a0bf3bd.16",
+      "lat": 48.152856,
+      "lng": 17.049561,
+      "name": "Playground Motorcycle"
+    },
+    "b46d005755b641f68bf2e71ca47772e2.16": {
+      "guid": "b46d005755b641f68bf2e71ca47772e2.16",
+      "lat": 48.153498,
+      "lng": 17.060939,
+      "name": "Dvojkruh"
+    },
+    "27fe6b36d9b74575b513884f92e06f20.16": {
+      "guid": "27fe6b36d9b74575b513884f92e06f20.16",
+      "lat": 48.156324,
+      "lng": 17.052146,
+      "name": "Zirafa"
+    },
+    "63c2b9ca8efe4003bb9733de89301962.16": {
+      "guid": "63c2b9ca8efe4003bb9733de89301962.16",
+      "lat": 48.152587,
+      "lng": 17.057321,
+      "name": "Modra Preliezka"
+    },
+    "d262e4ad26fb4e119e2022499226136f.16": {
+      "guid": "d262e4ad26fb4e119e2022499226136f.16",
+      "lat": 48.152404,
+      "lng": 17.056974,
+      "name": "Tiger a Motyl"
+    },
+    "14d94960873b48d4a79fb62984786527.16": {
+      "guid": "14d94960873b48d4a79fb62984786527.16",
+      "lat": 48.14749,
+      "lng": 17.063259,
+      "name": "Kalové čerpadlo"
+    },
+    "83c7baf963654f4fa3de530919eb63eb.16": {
+      "guid": "83c7baf963654f4fa3de530919eb63eb.16",
+      "lat": 48.145576,
+      "lng": 17.070028,
+      "name": "Lodenica KKKV, národná kultúrna pamiatka 1932"
+    },
+    "f05a0f85b6114f2db5d71d864414a1d6.16": {
+      "guid": "f05a0f85b6114f2db5d71d864414a1d6.16",
+      "lat": 48.159745,
+      "lng": 17.04917,
+      "name": "Graffiti Peace"
+    },
+    "356797c815a043fb9bb74b6ad0699e5f.16": {
+      "guid": "356797c815a043fb9bb74b6ad0699e5f.16",
+      "lat": 48.159762,
+      "lng": 17.049941,
+      "name": "Space Rocket"
+    },
+    "2bc4a7b9a596455b9322c77a9068301d.16": {
+      "guid": "2bc4a7b9a596455b9322c77a9068301d.16",
+      "lat": 48.16988,
+      "lng": 17.051681,
+      "name": "Schodisko SC"
+    },
+    "281ab454d27c42b9bc2994c335776ee7.16": {
+      "guid": "281ab454d27c42b9bc2994c335776ee7.16",
+      "lat": 48.14692,
+      "lng": 17.0707,
+      "name": "VI UK Družba"
+    },
+    "7f11ce2bef2c4392a26d6795f3009850.16": {
+      "guid": "7f11ce2bef2c4392a26d6795f3009850.16",
+      "lat": 48.158584,
+      "lng": 17.052754,
+      "name": "Údržba zelene"
+    },
+    "689a4cd7eebc43c3bd73926249642827.16": {
+      "guid": "689a4cd7eebc43c3bd73926249642827.16",
+      "lat": 48.151605,
+      "lng": 17.073338,
+      "name": "Centrum Excelentnosti"
+    },
+    "0bd0f9db321342648b5d84d238f2b4d0.16": {
+      "guid": "0bd0f9db321342648b5d84d238f2b4d0.16",
+      "lat": 48.158873,
+      "lng": 17.065258,
+      "name": "Volejbal"
+    },
+    "f790188505e84ef1bdc209c842a8fc94.16": {
+      "guid": "f790188505e84ef1bdc209c842a8fc94.16",
+      "lat": 48.159453,
+      "lng": 17.066389,
+      "name": "grafit s paskou"
+    },
+    "dbd1f0d85799453f929d945a21939733.16": {
+      "guid": "dbd1f0d85799453f929d945a21939733.16",
+      "lat": 48.159442,
+      "lng": 17.066667,
+      "name": "Grafit s infoikonou"
+    },
+    "aa6956bbab624eef925723c9a5ed2dab.16": {
+      "guid": "aa6956bbab624eef925723c9a5ed2dab.16",
+      "lat": 48.159188,
+      "lng": 17.066554,
+      "name": "Repeat Grafiti"
+    },
+    "8f51cb75bf6549efab23c4e31e00931b.16": {
+      "guid": "8f51cb75bf6549efab23c4e31e00931b.16",
+      "lat": 48.15886,
+      "lng": 17.066937,
+      "name": "Double Dance"
+    },
+    "ed80c3edcd804541811e6a29da92bc39.16": {
+      "guid": "ed80c3edcd804541811e6a29da92bc39.16",
+      "lat": 48.157868,
+      "lng": 17.067373,
+      "name": "alexander dubcek grave"
+    },
+    "a28202508acc46fe9ee1b26b64b61634.16": {
+      "guid": "a28202508acc46fe9ee1b26b64b61634.16",
+      "lat": 48.157743,
+      "lng": 17.068399,
+      "name": "muz so svatoziarou"
+    },
+    "d3baa91b2e874fc485ad377f6f2fb982.16": {
+      "guid": "d3baa91b2e874fc485ad377f6f2fb982.16",
+      "lat": 48.157525,
+      "lng": 17.068267,
+      "name": "Pamatnik Bojovnikov Proti Fasizmu "
+    },
+    "a5729f13fa5b46d2bdd2692a53ee0c12.16": {
+      "guid": "a5729f13fa5b46d2bdd2692a53ee0c12.16",
+      "lat": 48.152,
+      "lng": 17.045299,
+      "name": "Grafitti Mask"
     }
   },
   "ignoredCellsExtraGyms": {},
