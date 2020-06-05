@@ -1240,6 +1240,193 @@
       "lng": 17.050044,
       "name": "Blue dog",
       "isEx": true
+    },
+    "5126e6e9ce1b48db9ddb5f1481545430.16": {
+      "guid": "5126e6e9ce1b48db9ddb5f1481545430.16",
+      "lat": 48.141623,
+      "lng": 17.117826,
+      "name": "Relief Dostojevskeho"
+    },
+    "9c2679d4309b4f2c918fd5947ccbf55c.12": {
+      "guid": "9c2679d4309b4f2c918fd5947ccbf55c.12",
+      "lat": 48.143341,
+      "lng": 17.11642,
+      "name": "The Blue Church"
+    },
+    "0812a0034f6e4fab81e9ab21130ec4ec.16": {
+      "guid": "0812a0034f6e4fab81e9ab21130ec4ec.16",
+      "lat": 48.146963,
+      "lng": 17.086623,
+      "name": "Radvanska Mural"
+    },
+    "2f9be98f5ae64154b0b93a7a6824b028.16": {
+      "guid": "2f9be98f5ae64154b0b93a7a6824b028.16",
+      "lat": 48.146067,
+      "lng": 17.091418,
+      "name": "mapa bratislavy"
+    },
+    "f3264fc886c44b92a934927f2a3aff78.16": {
+      "guid": "f3264fc886c44b92a934927f2a3aff78.16",
+      "lat": 48.145929,
+      "lng": 17.091787,
+      "name": "Ihrisko Radvanska"
+    },
+    "fc477001935245c5985c1caa0c2c1e36.11": {
+      "guid": "fc477001935245c5985c1caa0c2c1e36.11",
+      "lat": 48.147914,
+      "lng": 17.108584,
+      "name": "Socha na Postovej"
+    },
+    "6703e726b1b84d958755a65ecd2322c0.12": {
+      "guid": "6703e726b1b84d958755a65ecd2322c0.12",
+      "lat": 48.150394,
+      "lng": 17.108044,
+      "name": "Maria Theresa - Grassalkovich Palace",
+      "isEx": true
+    },
+    "e3433da98a7148099f2899302a7b225d.12": {
+      "guid": "e3433da98a7148099f2899302a7b225d.12",
+      "lat": 48.148461,
+      "lng": 17.107563,
+      "name": "Hodžovo námestie"
+    },
+    "bdbd9510d2694bacb0841f2ccf39a2ac.16": {
+      "guid": "bdbd9510d2694bacb0841f2ccf39a2ac.16",
+      "lat": 48.149544,
+      "lng": 17.103639,
+      "name": "Zlty palac"
+    },
+    "6f5910873ce842b1a20ef47fb3698154.11": {
+      "guid": "6f5910873ce842b1a20ef47fb3698154.11",
+      "lat": 48.148883,
+      "lng": 17.098238,
+      "name": "Socha J. L. Bellu"
+    },
+    "fbb21e3008554e779a332ef1b8a37eb2.11": {
+      "guid": "fbb21e3008554e779a332ef1b8a37eb2.11",
+      "lat": 48.147251,
+      "lng": 17.125044,
+      "name": "VUB Monument"
+    },
+    "464a77012c2b4745bae4e9545daf5ac7.16": {
+      "guid": "464a77012c2b4745bae4e9545daf5ac7.16",
+      "lat": 48.147635,
+      "lng": 17.125372,
+      "name": "CBC I Tower"
+    },
+    "2dbabeb4a0744281bdfb9e90fc108f30.16": {
+      "guid": "2dbabeb4a0744281bdfb9e90fc108f30.16",
+      "lat": 48.147313,
+      "lng": 17.134012,
+      "name": "Smyklavka 1. Park"
+    },
+    "c8ace450e4d543cfa7bb9ddfae0bcab9.16": {
+      "guid": "c8ace450e4d543cfa7bb9ddfae0bcab9.16",
+      "lat": 48.150182,
+      "lng": 17.114105,
+      "name": "Mendelejev"
+    },
+    "ab43834e49d34964a868d5159e634692.16": {
+      "guid": "ab43834e49d34964a868d5159e634692.16",
+      "lat": 48.14651,
+      "lng": 17.114446,
+      "name": "Kostol sv. Alžbety"
+    },
+    "4ff5f00baa8f4025b7257329e87b5d1d.16": {
+      "guid": "4ff5f00baa8f4025b7257329e87b5d1d.16",
+      "lat": 48.145506,
+      "lng": 17.1134,
+      "name": "Kostol Sv. Ladislava"
+    },
+    "9107ebd31ea343ad8dc6e0b46d0f5741.16": {
+      "guid": "9107ebd31ea343ad8dc6e0b46d0f5741.16",
+      "lat": 48.147633,
+      "lng": 17.120348,
+      "name": "Beer Lady of Budwar"
+    },
+    "fcf9b33e837842c7b4e5059e9e7a03d6.16": {
+      "guid": "fcf9b33e837842c7b4e5059e9e7a03d6.16",
+      "lat": 48.147498,
+      "lng": 17.121665,
+      "name": "Skloneny hrob"
+    },
+    "85a6eb59e5f0484fbebd8f8ce315a07c.11": {
+      "guid": "85a6eb59e5f0484fbebd8f8ce315a07c.11",
+      "lat": 48.145223,
+      "lng": 17.117761,
+      "name": "Pamätník Julovi Satinskému"
+    },
+    "37de5b339e154a979e4022e716f20cc2.16": {
+      "guid": "37de5b339e154a979e4022e716f20cc2.16",
+      "lat": 48.158668,
+      "lng": 17.106327,
+      "name": "Mozaika Na Stanici"
+    },
+    "967fe4826e134516a1cdd58fcb90d767.16": {
+      "guid": "967fe4826e134516a1cdd58fcb90d767.16",
+      "lat": 48.159691,
+      "lng": 17.107194,
+      "name": "Hotel Tachyon"
+    },
+    "8a05d8fd10b241b686ee03c7d7feb6c4.16": {
+      "guid": "8a05d8fd10b241b686ee03c7d7feb6c4.16",
+      "lat": 48.152104,
+      "lng": 17.107087,
+      "name": "Water Men"
+    },
+    "0bc3502e91944b4b9b1cb6fce31cb2b5.16": {
+      "guid": "0bc3502e91944b4b9b1cb6fce31cb2b5.16",
+      "lat": 48.152609,
+      "lng": 17.110021,
+      "name": "Úrad Vlády SR"
+    },
+    "f493e2326eb14391b0bd600c2f98f43d.12": {
+      "guid": "f493e2326eb14391b0bd600c2f98f43d.12",
+      "lat": 48.152128,
+      "lng": 17.111729,
+      "name": "Flowery Fountain "
+    },
+    "e42aaecd160d4012bd1749763e437314.11": {
+      "guid": "e42aaecd160d4012bd1749763e437314.11",
+      "lat": 48.153813,
+      "lng": 17.114671,
+      "name": "Slovensky rozhlas"
+    },
+    "394b647168a245fc885093553c667a75.11": {
+      "guid": "394b647168a245fc885093553c667a75.11",
+      "lat": 48.152726,
+      "lng": 17.118757,
+      "name": "Blumentál"
+    },
+    "eb39fccfe79b4b889c2188059cc3c45b.16": {
+      "guid": "eb39fccfe79b4b889c2188059cc3c45b.16",
+      "lat": 48.152158,
+      "lng": 17.117438,
+      "name": "Rybka"
+    },
+    "33ae2631e5b24dc38c686ff91c78a7b2.16": {
+      "guid": "33ae2631e5b24dc38c686ff91c78a7b2.16",
+      "lat": 48.151797,
+      "lng": 17.120157,
+      "name": "End of City Marker"
+    },
+    "709d2695d525490f9efa21217b76a051.16": {
+      "guid": "709d2695d525490f9efa21217b76a051.16",
+      "lat": 48.149636,
+      "lng": 17.125519,
+      "name": "CBC III"
+    },
+    "375861d3ccc441ef9559b128897fb129.16": {
+      "guid": "375861d3ccc441ef9559b128897fb129.16",
+      "lat": 48.157981,
+      "lng": 17.117883,
+      "name": "Dievca s Holubicou"
+    },
+    "39bf1d9ff9894209a68cce91a07182d4.11": {
+      "guid": "39bf1d9ff9894209a68cce91a07182d4.11",
+      "lat": 48.157967,
+      "lng": 17.11882,
+      "name": "Hirošima"
     }
   },
   "pokestops": {
@@ -6888,6 +7075,1620 @@
       "lat": 48.162617,
       "lng": 17.070926,
       "name": "Pachycephalosaurus"
+    },
+    "97d6fb64c50e40afb8ce5d42ced8eb75.16": {
+      "guid": "97d6fb64c50e40afb8ce5d42ced8eb75.16",
+      "lat": 48.142855,
+      "lng": 17.114369,
+      "name": "Ladislav Novomesky"
+    },
+    "9574a0fcb05342c1b57aee2bae5df93f.16": {
+      "guid": "9574a0fcb05342c1b57aee2bae5df93f.16",
+      "lat": 48.142494,
+      "lng": 17.114618,
+      "name": "Stolpersteine Rotterovi"
+    },
+    "b766a7d082d743a9b5797302c32030e5.16": {
+      "guid": "b766a7d082d743a9b5797302c32030e5.16",
+      "lat": 48.141799,
+      "lng": 17.113877,
+      "name": "Entrance"
+    },
+    "4255bf15bb704c87952e74eb849b33bc.16": {
+      "guid": "4255bf15bb704c87952e74eb849b33bc.16",
+      "lat": 48.141423,
+      "lng": 17.114069,
+      "name": "Faces"
+    },
+    "0d7637ae10f245288482e704ebc49167.16": {
+      "guid": "0d7637ae10f245288482e704ebc49167.16",
+      "lat": 48.141448,
+      "lng": 17.114466,
+      "name": "Mizza"
+    },
+    "9ae33f4e67ac46658b20925da389c014.16": {
+      "guid": "9ae33f4e67ac46658b20925da389c014.16",
+      "lat": 48.140941,
+      "lng": 17.11416,
+      "name": "Commenius University"
+    },
+    "67d9568294934ce2a91fa00c55a3c406.16": {
+      "guid": "67d9568294934ce2a91fa00c55a3c406.16",
+      "lat": 48.140985,
+      "lng": 17.115937,
+      "name": "Pamiatka Daniela Tupého"
+    },
+    "e5d0e8c515fc445e80e5537a3fc8b9a2.16": {
+      "guid": "e5d0e8c515fc445e80e5537a3fc8b9a2.16",
+      "lat": 48.140904,
+      "lng": 17.115572,
+      "name": "Moyzesova sien"
+    },
+    "c50e9dc3f8b54858b3d4cfa67bd3e9e9.16": {
+      "guid": "c50e9dc3f8b54858b3d4cfa67bd3e9e9.16",
+      "lat": 48.140431,
+      "lng": 17.117043,
+      "name": "Memory of French officers"
+    },
+    "7e09e49935c64bf2bca6f393a11ec1e6.16": {
+      "guid": "7e09e49935c64bf2bca6f393a11ec1e6.16",
+      "lat": 48.139833,
+      "lng": 17.112043,
+      "name": "Valentinka 8.9.2010"
+    },
+    "23122323a3f84dbd9a801b129009cf33.16": {
+      "guid": "23122323a3f84dbd9a801b129009cf33.16",
+      "lat": 48.141183,
+      "lng": 17.117276,
+      "name": "Verejnosť Proti Násiliu"
+    },
+    "d523532c063d4df6b91a6fb321201ef7.16": {
+      "guid": "d523532c063d4df6b91a6fb321201ef7.16",
+      "lat": 48.141511,
+      "lng": 17.1166,
+      "name": "Viliam Pauliny Toth"
+    },
+    "595a8384f8ab49188361d34cdee11e23.16": {
+      "guid": "595a8384f8ab49188361d34cdee11e23.16",
+      "lat": 48.141688,
+      "lng": 17.116103,
+      "name": "Kačacia fontána"
+    },
+    "b6b7910f5edf4519bddbbe2db32a6796.16": {
+      "guid": "b6b7910f5edf4519bddbbe2db32a6796.16",
+      "lat": 48.141957,
+      "lng": 17.116257,
+      "name": "Secesny Najomny Dom"
+    },
+    "ae571ff824694966a1e71d3f5ceacf43.16": {
+      "guid": "ae571ff824694966a1e71d3f5ceacf43.16",
+      "lat": 48.142246,
+      "lng": 17.114967,
+      "name": "Amazing Balcony"
+    },
+    "a2c8482e31fb451483a80d8fca06894e.12": {
+      "guid": "a2c8482e31fb451483a80d8fca06894e.12",
+      "lat": 48.142623,
+      "lng": 17.115405,
+      "name": "poézia"
+    },
+    "d08c38d7505440eca8c412d145952b68.16": {
+      "guid": "d08c38d7505440eca8c412d145952b68.16",
+      "lat": 48.144059,
+      "lng": 17.115888,
+      "name": "Furdek & Gessay"
+    },
+    "77cb785ad7d342d9a225b8a6a4187969.16": {
+      "guid": "77cb785ad7d342d9a225b8a6a4187969.16",
+      "lat": 48.144887,
+      "lng": 17.115921,
+      "name": "Transcultural Woman"
+    },
+    "40fb878326e44cb6a0a83b5239453271.16": {
+      "guid": "40fb878326e44cb6a0a83b5239453271.16",
+      "lat": 48.144909,
+      "lng": 17.116838,
+      "name": "Zelezny Vodopad"
+    },
+    "0bd1fa6cd73a4b478cf61e6c8e177f8e.16": {
+      "guid": "0bd1fa6cd73a4b478cf61e6c8e177f8e.16",
+      "lat": 48.144114,
+      "lng": 17.116167,
+      "name": "Gymnazium Grosslingova"
+    },
+    "c7daa8d0ba2743e1bb184429c380f409.16": {
+      "guid": "c7daa8d0ba2743e1bb184429c380f409.16",
+      "lat": 48.144066,
+      "lng": 17.116971,
+      "name": "Slnečné hodiny"
+    },
+    "06062fa060f440e1b38207c2afc2f836.16": {
+      "guid": "06062fa060f440e1b38207c2afc2f836.16",
+      "lat": 48.14445,
+      "lng": 17.118398,
+      "name": "Kid Clown"
+    },
+    "9531baf9456d42e9a0715d8542ac6b2f.16": {
+      "guid": "9531baf9456d42e9a0715d8542ac6b2f.16",
+      "lat": 48.144155,
+      "lng": 17.118841,
+      "name": "Dievcatko s Macickou"
+    },
+    "7fed3cd8a15a444a890a3259619fab1d.16": {
+      "guid": "7fed3cd8a15a444a890a3259619fab1d.16",
+      "lat": 48.143639,
+      "lng": 17.118488,
+      "name": "ZSR"
+    },
+    "4a7cb5f9301d4deabd0a0ab579185095.16": {
+      "guid": "4a7cb5f9301d4deabd0a0ab579185095.16",
+      "lat": 48.143901,
+      "lng": 17.117662,
+      "name": "Vianocna Dohoda"
+    },
+    "9db4b6e0de074b5795758709c6bc3ab4.16": {
+      "guid": "9db4b6e0de074b5795758709c6bc3ab4.16",
+      "lat": 48.143122,
+      "lng": 17.117254,
+      "name": "proletari 2"
+    },
+    "23a480b3c32949de8dbcdb8c90ef5313.16": {
+      "guid": "23a480b3c32949de8dbcdb8c90ef5313.16",
+      "lat": 48.142833,
+      "lng": 17.116727,
+      "name": "Orientalna Mozaika"
+    },
+    "333629746a6f446eac95da31f42a4ff1.16": {
+      "guid": "333629746a6f446eac95da31f42a4ff1.16",
+      "lat": 48.142276,
+      "lng": 17.11704,
+      "name": "Angel Relief"
+    },
+    "77e746cb2fc44a29bdd94c8b3cca9beb.16": {
+      "guid": "77e746cb2fc44a29bdd94c8b3cca9beb.16",
+      "lat": 48.143325,
+      "lng": 17.119436,
+      "name": "Jakubovo Námestie"
+    },
+    "e800abf7179d4d9aba7becae21f3e430.16": {
+      "guid": "e800abf7179d4d9aba7becae21f3e430.16",
+      "lat": 48.14376,
+      "lng": 17.120149,
+      "name": "Congregations of the Holy Father"
+    },
+    "2ba3a045fe62441caa4464d99bfc62a5.16": {
+      "guid": "2ba3a045fe62441caa4464d99bfc62a5.16",
+      "lat": 48.143619,
+      "lng": 17.12067,
+      "name": "Hmyzi Hotel"
+    },
+    "bb53c64538604416bbf7a6e15c303493.16": {
+      "guid": "bb53c64538604416bbf7a6e15c303493.16",
+      "lat": 48.144051,
+      "lng": 17.120859,
+      "name": "Heil Pope"
+    },
+    "c35e59bc64544f398edfcc0dbb07a860.16": {
+      "guid": "c35e59bc64544f398edfcc0dbb07a860.16",
+      "lat": 48.143401,
+      "lng": 17.121672,
+      "name": "Divné Ufo"
+    },
+    "102e1a5b2f30414ab855a919e5a9b736.16": {
+      "guid": "102e1a5b2f30414ab855a919e5a9b736.16",
+      "lat": 48.142504,
+      "lng": 17.121194,
+      "name": "Fontána "
+    },
+    "0b25a9ef0d9d409aa843863e470471bc.16": {
+      "guid": "0b25a9ef0d9d409aa843863e470471bc.16",
+      "lat": 48.14268,
+      "lng": 17.119271,
+      "name": "Žltý Domček "
+    },
+    "3ac7f31d41db49a790648cedae4421ad.16": {
+      "guid": "3ac7f31d41db49a790648cedae4421ad.16",
+      "lat": 48.142315,
+      "lng": 17.119546,
+      "name": "Ústavy Spoločenských Vied SAV"
+    },
+    "75a4da496cc04f149fda1d6a8528ad5e.16": {
+      "guid": "75a4da496cc04f149fda1d6a8528ad5e.16",
+      "lat": 48.142483,
+      "lng": 17.117955,
+      "name": "Ministerstvo Podohospodarstva a Rozvoja Vidieka"
+    },
+    "622803c6bef445bcad0b08b1dfa6afce.16": {
+      "guid": "622803c6bef445bcad0b08b1dfa6afce.16",
+      "lat": 48.140094,
+      "lng": 17.114838,
+      "name": "Stredná Priemyslová Škola- 1904"
+    },
+    "4edea8e8c0044906a183c188e369d354.16": {
+      "guid": "4edea8e8c0044906a183c188e369d354.16",
+      "lat": 48.140135,
+      "lng": 17.115229,
+      "name": "Dr. France Prešeren"
+    },
+    "f97c9c0306df47ad8117b16a75e747ee.16": {
+      "guid": "f97c9c0306df47ad8117b16a75e747ee.16",
+      "lat": 48.136266,
+      "lng": 17.113139,
+      "name": "Playground Tyrosovo Nabrezie"
+    },
+    "a074c5a99bf243c391196cea8e63598d.16": {
+      "guid": "a074c5a99bf243c391196cea8e63598d.16",
+      "lat": 48.143746,
+      "lng": 17.123785,
+      "name": "zapadoslovenska distribucna"
+    },
+    "4ff25bb1a1d247db8e219427e91245b2.16": {
+      "guid": "4ff25bb1a1d247db8e219427e91245b2.16",
+      "lat": 48.141064,
+      "lng": 17.126459,
+      "name": "Panorama ihrisko"
+    },
+    "e8417ab11654421e92dedaf1630d991d.16": {
+      "guid": "e8417ab11654421e92dedaf1630d991d.16",
+      "lat": 48.139722,
+      "lng": 17.120403,
+      "name": "Training at the Danube"
+    },
+    "230d1342076c498c928e8a80189e2848.16": {
+      "guid": "230d1342076c498c928e8a80189e2848.16",
+      "lat": 48.145399,
+      "lng": 17.118274,
+      "name": "Youth of Communism Association"
+    },
+    "3418556db3ea4e529bc48e0fa1e7705a.16": {
+      "guid": "3418556db3ea4e529bc48e0fa1e7705a.16",
+      "lat": 48.144955,
+      "lng": 17.10096,
+      "name": "Wilson Pamatna Tabula"
+    },
+    "c7165457eb1a4c4ea5771b9d04e3bd04.16": {
+      "guid": "c7165457eb1a4c4ea5771b9d04e3bd04.16",
+      "lat": 48.145128,
+      "lng": 17.099857,
+      "name": "Vidieť, hodnotiť, konať"
+    },
+    "b85133670e484eacba9dfe912052db51.16": {
+      "guid": "b85133670e484eacba9dfe912052db51.16",
+      "lat": 48.145356,
+      "lng": 17.099132,
+      "name": "Public playground Skarniclova"
+    },
+    "5f07ecc835d4404aad7ab97a962d62b9.16": {
+      "guid": "5f07ecc835d4404aad7ab97a962d62b9.16",
+      "lat": 48.146366,
+      "lng": 17.099339,
+      "name": "Cirkev Zborov"
+    },
+    "563979c5d7da4aa393f9dd284a41191a.16": {
+      "guid": "563979c5d7da4aa393f9dd284a41191a.16",
+      "lat": 48.147034,
+      "lng": 17.099687,
+      "name": "Bratska Jednota Baptistov Palisady"
+    },
+    "cb5316c3ac314a70a57ba51b7e9b7aad.16": {
+      "guid": "cb5316c3ac314a70a57ba51b7e9b7aad.16",
+      "lat": 48.146926,
+      "lng": 17.098568,
+      "name": "BRA - Mauseläum"
+    },
+    "665fe60d808341cc8ee095e0572758a3.16": {
+      "guid": "665fe60d808341cc8ee095e0572758a3.16",
+      "lat": 48.147484,
+      "lng": 17.098609,
+      "name": "Muz v plasti"
+    },
+    "8e1249e3890b485bae6d4bd62ad23061.16": {
+      "guid": "8e1249e3890b485bae6d4bd62ad23061.16",
+      "lat": 48.146578,
+      "lng": 17.099096,
+      "name": "Statue of a nun sister"
+    },
+    "3528567f1a4c4d0f8c1d06b685a890fd.16": {
+      "guid": "3528567f1a4c4d0f8c1d06b685a890fd.16",
+      "lat": 48.14551,
+      "lng": 17.101154,
+      "name": "Maly mestsky amfiteater"
+    },
+    "33624d59e1454b91aee318bf8f26cf5e.16": {
+      "guid": "33624d59e1454b91aee318bf8f26cf5e.16",
+      "lat": 48.146178,
+      "lng": 17.097171,
+      "name": "Diakonicke zdruzenie Betania"
+    },
+    "1b0242a610c643b7a3edc29a63837b0b.16": {
+      "guid": "1b0242a610c643b7a3edc29a63837b0b.16",
+      "lat": 48.144959,
+      "lng": 17.095542,
+      "name": "Mesiac nad jazerom"
+    },
+    "c96d8bf65ea24669b67be48e2cd786cf.16": {
+      "guid": "c96d8bf65ea24669b67be48e2cd786cf.16",
+      "lat": 48.14391,
+      "lng": 17.098898,
+      "name": "Matka s dietatom"
+    },
+    "6980797057cf4297a88f694012d97ad9.16": {
+      "guid": "6980797057cf4297a88f694012d97ad9.16",
+      "lat": 48.142556,
+      "lng": 17.098926,
+      "name": "NÁRODNÁ RADA SLOVENSKEJ REPUBLIKY"
+    },
+    "60ed3744760a42198ea8638472a46852.16": {
+      "guid": "60ed3744760a42198ea8638472a46852.16",
+      "lat": 48.142745,
+      "lng": 17.09865,
+      "name": "Informačá tabuľa Bratislavský vrch"
+    },
+    "dfdcfbb60bfa4dd59bcde06642a0708d.16": {
+      "guid": "dfdcfbb60bfa4dd59bcde06642a0708d.16",
+      "lat": 48.143195,
+      "lng": 17.095977,
+      "name": "VILA Mudronova"
+    },
+    "ff8f121315c043c99976479e07a9cfdc.12": {
+      "guid": "ff8f121315c043c99976479e07a9cfdc.12",
+      "lat": 48.143368,
+      "lng": 17.09541,
+      "name": "strážca"
+    },
+    "933b4d757d1b45d0a039710412d1a157.16": {
+      "guid": "933b4d757d1b45d0a039710412d1a157.16",
+      "lat": 48.142502,
+      "lng": 17.097935,
+      "name": "Kings chair under the Castle"
+    },
+    "0fa7c8a7a20647e7a42085be89f80fce.16": {
+      "guid": "0fa7c8a7a20647e7a42085be89f80fce.16",
+      "lat": 48.142553,
+      "lng": 17.09691,
+      "name": "Velvyslanectvo Nemecka - rezidencia"
+    },
+    "0bbbd40a8d09436b8003e8fea80e45fa.16": {
+      "guid": "0bbbd40a8d09436b8003e8fea80e45fa.16",
+      "lat": 48.142851,
+      "lng": 17.096251,
+      "name": "Diplomat Park"
+    },
+    "d697f36b02484a6fb78bca7216ab2375.16": {
+      "guid": "d697f36b02484a6fb78bca7216ab2375.16",
+      "lat": 48.140279,
+      "lng": 17.094144,
+      "name": "Giant yellow ball of DOOM"
+    },
+    "87c33cabbccd4ba2a4e53e8454196146.16": {
+      "guid": "87c33cabbccd4ba2a4e53e8454196146.16",
+      "lat": 48.146304,
+      "lng": 17.086926,
+      "name": "Lavicka Sedmokraska"
+    },
+    "fc184b34da6c477e972d2f615afe9947.16": {
+      "guid": "fc184b34da6c477e972d2f615afe9947.16",
+      "lat": 48.146029,
+      "lng": 17.087272,
+      "name": "Iracke Velvyslanectvo"
+    },
+    "d979178742ef4d07a1416dc9360a682a.16": {
+      "guid": "d979178742ef4d07a1416dc9360a682a.16",
+      "lat": 48.143997,
+      "lng": 17.0905,
+      "name": "Memory table of painter J. Lauko"
+    },
+    "4b17c8aa1f6c42388550ac704fcecb9d.16": {
+      "guid": "4b17c8aa1f6c42388550ac704fcecb9d.16",
+      "lat": 48.147051,
+      "lng": 17.094491,
+      "name": "Generalny Conzulat Sierra Leone"
+    },
+    "ab0723387c63422b96b448884ade8b08.16": {
+      "guid": "ab0723387c63422b96b448884ade8b08.16",
+      "lat": 48.147056,
+      "lng": 17.091648,
+      "name": "Polska Ambasada"
+    },
+    "a5b727008e86406e975de0773201fefe.16": {
+      "guid": "a5b727008e86406e975de0773201fefe.16",
+      "lat": 48.147237,
+      "lng": 17.105626,
+      "name": "Lycealna Kniznica"
+    },
+    "2161195ffdc347c5a48de6639e59a5b8.11": {
+      "guid": "2161195ffdc347c5a48de6639e59a5b8.11",
+      "lat": 48.147191,
+      "lng": 17.109138,
+      "name": "Slovenska Posta"
+    },
+    "297de2a2f0f2443a87bb67eff755f492.16": {
+      "guid": "297de2a2f0f2443a87bb67eff755f492.16",
+      "lat": 48.147594,
+      "lng": 17.109135,
+      "name": "Zmrzlinka"
+    },
+    "285effcc70e6486db7a6884afbf0f477.16": {
+      "guid": "285effcc70e6486db7a6884afbf0f477.16",
+      "lat": 48.148744,
+      "lng": 17.1102,
+      "name": "The Olive Tree"
+    },
+    "7d87f0506ec64fe882c117e68a1a6e62.16": {
+      "guid": "7d87f0506ec64fe882c117e68a1a6e62.16",
+      "lat": 48.150178,
+      "lng": 17.110944,
+      "name": "Wine And Hop Boy"
+    },
+    "ba792228d6b24ba4869b542229ba1c31.16": {
+      "guid": "ba792228d6b24ba4869b542229ba1c31.16",
+      "lat": 48.150837,
+      "lng": 17.111562,
+      "name": "Reliefs Namestie Slobody"
+    },
+    "2edf8720c2bc46d58c7e6d55f5f31fb1.16": {
+      "guid": "2edf8720c2bc46d58c7e6d55f5f31fb1.16",
+      "lat": 48.150622,
+      "lng": 17.110715,
+      "name": "Grape Emblem"
+    },
+    "c495bee1a6a84918b2b55ee74ce3059d.16": {
+      "guid": "c495bee1a6a84918b2b55ee74ce3059d.16",
+      "lat": 48.149413,
+      "lng": 17.110086,
+      "name": "Zdobený dům"
+    },
+    "43761c2ea6d54129b917c2e5c7f54482.16": {
+      "guid": "43761c2ea6d54129b917c2e5c7f54482.16",
+      "lat": 48.149037,
+      "lng": 17.108614,
+      "name": "Byvaly cintorin"
+    },
+    "862ac66a8ba346d984deac527ced7d2f.16": {
+      "guid": "862ac66a8ba346d984deac527ced7d2f.16",
+      "lat": 48.149503,
+      "lng": 17.109054,
+      "name": "BB4 Socha"
+    },
+    "f688ebbcc0084f06a4d0effdeca04665.11": {
+      "guid": "f688ebbcc0084f06a4d0effdeca04665.11",
+      "lat": 48.150554,
+      "lng": 17.109337,
+      "name": "Štefan Major House"
+    },
+    "25a9f60e364b401f8b81078f5c5e511f.16": {
+      "guid": "25a9f60e364b401f8b81078f5c5e511f.16",
+      "lat": 48.150672,
+      "lng": 17.108483,
+      "name": "Hope We Meet Again"
+    },
+    "3d8a8144b4c2464287a41edc61b9b8e5.16": {
+      "guid": "3d8a8144b4c2464287a41edc61b9b8e5.16",
+      "lat": 48.149833,
+      "lng": 17.108377,
+      "name": "Old Statue"
+    },
+    "16f86f7e5fa445cb8e15f226e16715a7.16": {
+      "guid": "16f86f7e5fa445cb8e15f226e16715a7.16",
+      "lat": 48.149054,
+      "lng": 17.107964,
+      "name": "Grassalkovichov Palác"
+    },
+    "fb92af8286a54d31b40f9e52e2b227bb.16": {
+      "guid": "fb92af8286a54d31b40f9e52e2b227bb.16",
+      "lat": 48.148143,
+      "lng": 17.106728,
+      "name": "Skleneny ihlan"
+    },
+    "8f45b3edc5d74d209b9a4a8094c9e86f.16": {
+      "guid": "8f45b3edc5d74d209b9a4a8094c9e86f.16",
+      "lat": 48.14815,
+      "lng": 17.106259,
+      "name": "Liebe"
+    },
+    "a6c6e1b3f4ca40a59d9dc73683bcc46e.16": {
+      "guid": "a6c6e1b3f4ca40a59d9dc73683bcc46e.16",
+      "lat": 48.148542,
+      "lng": 17.106365,
+      "name": "Balassi Intézet"
+    },
+    "2c26874328aa4b98a7ba56f25fa9cd9e.16": {
+      "guid": "2c26874328aa4b98a7ba56f25fa9cd9e.16",
+      "lat": 48.149152,
+      "lng": 17.107015,
+      "name": "The Czecho-Slovak Army Liberated"
+    },
+    "a44502cf62a1440eafa0b40a06a51e88.11": {
+      "guid": "a44502cf62a1440eafa0b40a06a51e88.11",
+      "lat": 48.149911,
+      "lng": 17.1075,
+      "name": "President Garden"
+    },
+    "21e3eef0832140c8926d7980b6836b35.11": {
+      "guid": "21e3eef0832140c8926d7980b6836b35.11",
+      "lat": 48.150632,
+      "lng": 17.107599,
+      "name": "Zlta Socha"
+    },
+    "ac17ed6e2ab2412ca4dcdd5b0f5bd2eb.16": {
+      "guid": "ac17ed6e2ab2412ca4dcdd5b0f5bd2eb.16",
+      "lat": 48.151275,
+      "lng": 17.108321,
+      "name": "Stvorprsty"
+    },
+    "7a1bccf4110648cfaf82527674e3bb96.16": {
+      "guid": "7a1bccf4110648cfaf82527674e3bb96.16",
+      "lat": 48.151227,
+      "lng": 17.106933,
+      "name": "Váza S Levom "
+    },
+    "dbca8ec832eb4bfb978e92dfe7274165.16": {
+      "guid": "dbca8ec832eb4bfb978e92dfe7274165.16",
+      "lat": 48.150706,
+      "lng": 17.107096,
+      "name": "Woman And Her Baby"
+    },
+    "6b0bef80f5814cba8056fa928ef91b3b.16": {
+      "guid": "6b0bef80f5814cba8056fa928ef91b3b.16",
+      "lat": 48.150132,
+      "lng": 17.106636,
+      "name": "Sculptur Tower"
+    },
+    "355d3628a1cc4d6c80afc01d4c69d0be.16": {
+      "guid": "355d3628a1cc4d6c80afc01d4c69d0be.16",
+      "lat": 48.149721,
+      "lng": 17.105947,
+      "name": "Obytny Dom 1909"
+    },
+    "fe4bfd73b370406486b3544dff9b8b1e.16": {
+      "guid": "fe4bfd73b370406486b3544dff9b8b1e.16",
+      "lat": 48.148717,
+      "lng": 17.105652,
+      "name": "Ekumenicka Rada Cirkvi"
+    },
+    "e249f799ce4845dc9c19764b1f7d0607.16": {
+      "guid": "e249f799ce4845dc9c19764b1f7d0607.16",
+      "lat": 48.147974,
+      "lng": 17.105441,
+      "name": "Gate To Heaven"
+    },
+    "400330a5d2044199b4c80a11e4910439.16": {
+      "guid": "400330a5d2044199b4c80a11e4910439.16",
+      "lat": 48.14776,
+      "lng": 17.105453,
+      "name": "Velky Evanielicky Kostol"
+    },
+    "0ce0716953e64925aa668173c19776cc.16": {
+      "guid": "0ce0716953e64925aa668173c19776cc.16",
+      "lat": 48.147225,
+      "lng": 17.104976,
+      "name": "Milan Rastislav Stefanik"
+    },
+    "d0c222a2f99f468ea1e1be5d0babdb07.16": {
+      "guid": "d0c222a2f99f468ea1e1be5d0babdb07.16",
+      "lat": 48.150796,
+      "lng": 17.105609,
+      "name": "Fregi Floreali"
+    },
+    "c8b74c32ca02443293d8645ecbadb3a9.16": {
+      "guid": "c8b74c32ca02443293d8645ecbadb3a9.16",
+      "lat": 48.147755,
+      "lng": 17.103055,
+      "name": "Miloš Ruppeldet"
+    },
+    "c7c4eb14d91942edbf03c68eb1f95abf.16": {
+      "guid": "c7c4eb14d91942edbf03c68eb1f95abf.16",
+      "lat": 48.148633,
+      "lng": 17.103669,
+      "name": "Relief: Cherubs With Hammer And Grapes"
+    },
+    "8f1c603a9b0b4e999f341225876f8cad.16": {
+      "guid": "8f1c603a9b0b4e999f341225876f8cad.16",
+      "lat": 48.148925,
+      "lng": 17.103558,
+      "name": "Body"
+    },
+    "ba2166d741724135834051ea0e6ccf76.16": {
+      "guid": "ba2166d741724135834051ea0e6ccf76.16",
+      "lat": 48.15074,
+      "lng": 17.104817,
+      "name": "Jaro Filip"
+    },
+    "b4365bbc92f14214b91773a5658f7917.16": {
+      "guid": "b4365bbc92f14214b91773a5658f7917.16",
+      "lat": 48.151229,
+      "lng": 17.104854,
+      "name": "Konzulat Juznej Afriky"
+    },
+    "eef2f9d03e55498199f6df3aedd690f2.16": {
+      "guid": "eef2f9d03e55498199f6df3aedd690f2.16",
+      "lat": 48.148288,
+      "lng": 17.102546,
+      "name": "Woman Statue"
+    },
+    "f49e912bcf724d69a1b4831d0956a6de.16": {
+      "guid": "f49e912bcf724d69a1b4831d0956a6de.16",
+      "lat": 48.148649,
+      "lng": 17.102365,
+      "name": "Residence of Writer Elo Sandor"
+    },
+    "743ce98ab2914f9cbddcd0c0440b3161.16": {
+      "guid": "743ce98ab2914f9cbddcd0c0440b3161.16",
+      "lat": 48.148518,
+      "lng": 17.101408,
+      "name": "Novogotická budova"
+    },
+    "7db399ce302d4081981a2b88e92bf93f.16": {
+      "guid": "7db399ce302d4081981a2b88e92bf93f.16",
+      "lat": 48.14732,
+      "lng": 17.102001,
+      "name": "Fernolayov dom"
+    },
+    "513ccc1b24ba4913a4929c4c7dec0384.16": {
+      "guid": "513ccc1b24ba4913a4929c4c7dec0384.16",
+      "lat": 48.147782,
+      "lng": 17.100177,
+      "name": "Angel Statue"
+    },
+    "60b323b1576847f8886bfd51605e7250.16": {
+      "guid": "60b323b1576847f8886bfd51605e7250.16",
+      "lat": 48.147566,
+      "lng": 17.099698,
+      "name": "Ihlanove DUO"
+    },
+    "d20efa980f414d61bb486b71c8a3919b.16": {
+      "guid": "d20efa980f414d61bb486b71c8a3919b.16",
+      "lat": 48.147881,
+      "lng": 17.098952,
+      "name": "Statue of an Angel"
+    },
+    "d813489a8a3c4b40b6e21b46a303d59e.16": {
+      "guid": "d813489a8a3c4b40b6e21b46a303d59e.16",
+      "lat": 48.149475,
+      "lng": 17.098799,
+      "name": "Medený Erb"
+    },
+    "537a188e063b41669f24ff4ebe1ffb8d.16": {
+      "guid": "537a188e063b41669f24ff4ebe1ffb8d.16",
+      "lat": 48.149822,
+      "lng": 17.099012,
+      "name": "Timravina Tower"
+    },
+    "0b6c0f6153d94b86a1370524f2265d1a.16": {
+      "guid": "0b6c0f6153d94b86a1370524f2265d1a.16",
+      "lat": 48.14485,
+      "lng": 17.123137,
+      "name": "Rohový dom"
+    },
+    "f0e0245c167948f497834df8af494512.16": {
+      "guid": "f0e0245c167948f497834df8af494512.16",
+      "lat": 48.145811,
+      "lng": 17.124765,
+      "name": "V priestore"
+    },
+    "4efc8c85259d4dc69e75389f42e906ef.16": {
+      "guid": "4efc8c85259d4dc69e75389f42e906ef.16",
+      "lat": 48.145932,
+      "lng": 17.125551,
+      "name": "Little Free Library"
+    },
+    "fc1c12af4eb644549975850a78f5b7b0.16": {
+      "guid": "fc1c12af4eb644549975850a78f5b7b0.16",
+      "lat": 48.145379,
+      "lng": 17.128798,
+      "name": "Central Bus Station Bratislava"
+    },
+    "197b7ee2b1244449b8f207d9a7c69289.16": {
+      "guid": "197b7ee2b1244449b8f207d9a7c69289.16",
+      "lat": 48.145753,
+      "lng": 17.128933,
+      "name": "Hura Bratislava"
+    },
+    "45a8c2809c734285aaedb2843fbdee97.16": {
+      "guid": "45a8c2809c734285aaedb2843fbdee97.16",
+      "lat": 48.146888,
+      "lng": 17.124729,
+      "name": "VUB Fontana"
+    },
+    "e8d9518e5df44c389376efb996227bfd.16": {
+      "guid": "e8d9518e5df44c389376efb996227bfd.16",
+      "lat": 48.146192,
+      "lng": 17.136741,
+      "name": "TV Tower"
+    },
+    "40a50fbbb4134710b17c148ff1615bfd.16": {
+      "guid": "40a50fbbb4134710b17c148ff1615bfd.16",
+      "lat": 48.14517,
+      "lng": 17.132122,
+      "name": "Siluety, Ufo a hrad"
+    },
+    "f36d9f164ce4411faefe3009e72f398c.11": {
+      "guid": "f36d9f164ce4411faefe3009e72f398c.11",
+      "lat": 48.150045,
+      "lng": 17.111845,
+      "name": "Bratislava Atrium"
+    },
+    "cbe87f6bf121451e8a7f78c40fe1f9ad.16": {
+      "guid": "cbe87f6bf121451e8a7f78c40fe1f9ad.16",
+      "lat": 48.15015,
+      "lng": 17.112741,
+      "name": "STU FCHaPT"
+    },
+    "ec1c0f688cd8494087ec01f589e4c177.16": {
+      "guid": "ec1c0f688cd8494087ec01f589e4c177.16",
+      "lat": 48.150225,
+      "lng": 17.114788,
+      "name": "Old Fire Station"
+    },
+    "f8724a6e08c5428cadfc1dc7ae6008aa.16": {
+      "guid": "f8724a6e08c5428cadfc1dc7ae6008aa.16",
+      "lat": 48.149616,
+      "lng": 17.115404,
+      "name": "Komoditna Burza"
+    },
+    "da6a17396088447fab2bec5a90df5066.16": {
+      "guid": "da6a17396088447fab2bec5a90df5066.16",
+      "lat": 48.149653,
+      "lng": 17.116337,
+      "name": "Hlavy strážci ulice"
+    },
+    "1ec1318c863748ff8fbc9a0e9a4cb7ec.16": {
+      "guid": "1ec1318c863748ff8fbc9a0e9a4cb7ec.16",
+      "lat": 48.149774,
+      "lng": 17.117939,
+      "name": "Medicka Zahrada"
+    },
+    "b2a6869fa0c342f493e7bd29d29001c5.16": {
+      "guid": "b2a6869fa0c342f493e7bd29d29001c5.16",
+      "lat": 48.148974,
+      "lng": 17.116211,
+      "name": "Little Red Library Jakubak"
+    },
+    "bf0eb00a2f074044b3a7cf60c01ffc6a.16": {
+      "guid": "bf0eb00a2f074044b3a7cf60c01ffc6a.16",
+      "lat": 48.149413,
+      "lng": 17.113977,
+      "name": "Relief Alzbetka"
+    },
+    "7587e66e2ef04715a47c3b0f48b323c7.16": {
+      "guid": "7587e66e2ef04715a47c3b0f48b323c7.16",
+      "lat": 48.149829,
+      "lng": 17.113435,
+      "name": "Elephant Wall Art"
+    },
+    "f63bd7fb1e4f43c6bc0730bf36dfe6d7.16": {
+      "guid": "f63bd7fb1e4f43c6bc0730bf36dfe6d7.16",
+      "lat": 48.149321,
+      "lng": 17.112464,
+      "name": "Vinárske priečelie"
+    },
+    "1a65d67e343c4b2cbd78f7b413847b5d.16": {
+      "guid": "1a65d67e343c4b2cbd78f7b413847b5d.16",
+      "lat": 48.148923,
+      "lng": 17.113004,
+      "name": "Panda"
+    },
+    "d4612ab42a294a0ea66e74a6f6a65b02.12": {
+      "guid": "d4612ab42a294a0ea66e74a6f6a65b02.12",
+      "lat": 48.149001,
+      "lng": 17.113574,
+      "name": "Slovak Soldiers Relief"
+    },
+    "2a9f6a2d640844a19d7d3360bd8c7ac2.12": {
+      "guid": "2a9f6a2d640844a19d7d3360bd8c7ac2.12",
+      "lat": 48.148508,
+      "lng": 17.116635,
+      "name": "Lion"
+    },
+    "cf0703f3e5d644b9bd23fe47b15fb2e2.16": {
+      "guid": "cf0703f3e5d644b9bd23fe47b15fb2e2.16",
+      "lat": 48.147836,
+      "lng": 17.115386,
+      "name": "Mural Anjeli"
+    },
+    "40c91d36a22f4e5eafc4217c21067624.16": {
+      "guid": "40c91d36a22f4e5eafc4217c21067624.16",
+      "lat": 48.148394,
+      "lng": 17.112357,
+      "name": "1. Slovenská Krčma"
+    },
+    "7d8674065880406eb08de918428a8572.16": {
+      "guid": "7d8674065880406eb08de918428a8572.16",
+      "lat": 48.148666,
+      "lng": 17.112054,
+      "name": "Taxi Grafity"
+    },
+    "29d54b9367a446f094b9a9cb75030c9d.16": {
+      "guid": "29d54b9367a446f094b9a9cb75030c9d.16",
+      "lat": 48.147635,
+      "lng": 17.115606,
+      "name": "Krystal Bar"
+    },
+    "49c62cf5d889484bae193d3c30f8b264.16": {
+      "guid": "49c62cf5d889484bae193d3c30f8b264.16",
+      "lat": 48.147187,
+      "lng": 17.115092,
+      "name": "Hafan"
+    },
+    "2a004ac846254a17af16f9077f6ea504.16": {
+      "guid": "2a004ac846254a17af16f9077f6ea504.16",
+      "lat": 48.147585,
+      "lng": 17.113228,
+      "name": "Art na Heydukovej"
+    },
+    "ead8580d568741169c0694e576be3c97.12": {
+      "guid": "ead8580d568741169c0694e576be3c97.12",
+      "lat": 48.147788,
+      "lng": 17.110771,
+      "name": "Barón Prášil"
+    },
+    "9087eada37c84530baa10274df7d25b6.11": {
+      "guid": "9087eada37c84530baa10274df7d25b6.11",
+      "lat": 48.14754,
+      "lng": 17.110298,
+      "name": "Neolit"
+    },
+    "d070342ac60345d4828d4c6ae46105aa.16": {
+      "guid": "d070342ac60345d4828d4c6ae46105aa.16",
+      "lat": 48.147631,
+      "lng": 17.111031,
+      "name": "Zizajuca Hlava"
+    },
+    "f79760b95c2744728e4dec73a775d577.16": {
+      "guid": "f79760b95c2744728e4dec73a775d577.16",
+      "lat": 48.147338,
+      "lng": 17.113023,
+      "name": "Monument na Heydukovej"
+    },
+    "67ffcdc95b0b47c6a408313b24acc5ce.16": {
+      "guid": "67ffcdc95b0b47c6a408313b24acc5ce.16",
+      "lat": 48.147071,
+      "lng": 17.114118,
+      "name": "Sv. Alžbeta"
+    },
+    "b3cab029919449ecbe02392e468d5ab8.16": {
+      "guid": "b3cab029919449ecbe02392e468d5ab8.16",
+      "lat": 48.14686,
+      "lng": 17.114655,
+      "name": "Woman and Child Statue"
+    },
+    "f0e36636030d47e996b1f52b5d389302.16": {
+      "guid": "f0e36636030d47e996b1f52b5d389302.16",
+      "lat": 48.146732,
+      "lng": 17.114885,
+      "name": "Hostel Blues"
+    },
+    "9a446d2a3b39403cbddb36a9a87b6083.16": {
+      "guid": "9a446d2a3b39403cbddb36a9a87b6083.16",
+      "lat": 48.146512,
+      "lng": 17.115992,
+      "name": "Kino Lumiere"
+    },
+    "c61644fa214b4b52aa7a225939471d35.16": {
+      "guid": "c61644fa214b4b52aa7a225939471d35.16",
+      "lat": 48.145883,
+      "lng": 17.115306,
+      "name": "Techno Anjel Bez Kridla"
+    },
+    "3e9a26c706134c25bfb338ce0794e013.16": {
+      "guid": "3e9a26c706134c25bfb338ce0794e013.16",
+      "lat": 48.146318,
+      "lng": 17.114936,
+      "name": "La Luna "
+    },
+    "2d3c3401ff0d4cdf9bbb36cc4e5ac6c7.16": {
+      "guid": "2d3c3401ff0d4cdf9bbb36cc4e5ac6c7.16",
+      "lat": 48.146805,
+      "lng": 17.112413,
+      "name": "Aron Grünhut Memorial"
+    },
+    "af480ce295ca4c8599054aeb37cff015.16": {
+      "guid": "af480ce295ca4c8599054aeb37cff015.16",
+      "lat": 48.147243,
+      "lng": 17.109705,
+      "name": "Svojou cestou"
+    },
+    "68984fcf95bb4e16a4457830987ddf93.16": {
+      "guid": "68984fcf95bb4e16a4457830987ddf93.16",
+      "lat": 48.145508,
+      "lng": 17.11478,
+      "name": "Two Faces"
+    },
+    "d66a2d35354542dcb3d1fd97517d1edf.16": {
+      "guid": "d66a2d35354542dcb3d1fd97517d1edf.16",
+      "lat": 48.145254,
+      "lng": 17.115222,
+      "name": "3 Turbiny"
+    },
+    "0ea61b20bcc8407dbfddd8fcf79f5df2.12": {
+      "guid": "0ea61b20bcc8407dbfddd8fcf79f5df2.12",
+      "lat": 48.149524,
+      "lng": 17.119054,
+      "name": "Martin Kukučín Statue"
+    },
+    "f70be5f57682408db50d721eb18de81e.16": {
+      "guid": "f70be5f57682408db50d721eb18de81e.16",
+      "lat": 48.149171,
+      "lng": 17.119274,
+      "name": "Former Army Hospital "
+    },
+    "c0bd6c91895840fbafda1ea93c4a83aa.16": {
+      "guid": "c0bd6c91895840fbafda1ea93c4a83aa.16",
+      "lat": 48.149349,
+      "lng": 17.120725,
+      "name": "Playground Medical Garden"
+    },
+    "1a3af8fffd3e40ec95030f601c4da4ca.16": {
+      "guid": "1a3af8fffd3e40ec95030f601c4da4ca.16",
+      "lat": 48.14917,
+      "lng": 17.122385,
+      "name": "Svätostánok"
+    },
+    "bf0b00cea8754216b07573fb9ea18b39.16": {
+      "guid": "bf0b00cea8754216b07573fb9ea18b39.16",
+      "lat": 48.147948,
+      "lng": 17.123258,
+      "name": "Osarpana Maria"
+    },
+    "6660f17091a44cfa89cb85deee516a60.16": {
+      "guid": "6660f17091a44cfa89cb85deee516a60.16",
+      "lat": 48.148464,
+      "lng": 17.122718,
+      "name": "Joannes Kremnicska grave"
+    },
+    "5c2e680a611e4ad7ab1b359c438fb5f2.16": {
+      "guid": "5c2e680a611e4ad7ab1b359c438fb5f2.16",
+      "lat": 48.148489,
+      "lng": 17.121641,
+      "name": "Stone Hribik"
+    },
+    "732302fa63944183b04445212536dcd4.11": {
+      "guid": "732302fa63944183b04445212536dcd4.11",
+      "lat": 48.148518,
+      "lng": 17.121073,
+      "name": "Robinson's Grave"
+    },
+    "45d4d7f7566140df9feb9a16ce4386aa.11": {
+      "guid": "45d4d7f7566140df9feb9a16ce4386aa.11",
+      "lat": 48.146768,
+      "lng": 17.122541,
+      "name": "Kotva"
+    },
+    "c33cd09566c540f5b10a711ed2a2f712.16": {
+      "guid": "c33cd09566c540f5b10a711ed2a2f712.16",
+      "lat": 48.146966,
+      "lng": 17.122026,
+      "name": "Dom smutku"
+    },
+    "6a9506faa47a44e29172ef61b2e57a80.16": {
+      "guid": "6a9506faa47a44e29172ef61b2e57a80.16",
+      "lat": 48.147099,
+      "lng": 17.12106,
+      "name": "Kozel of Mamut"
+    },
+    "6b159443c67a4cd091490f1907da5281.16": {
+      "guid": "6b159443c67a4cd091490f1907da5281.16",
+      "lat": 48.147706,
+      "lng": 17.118179,
+      "name": "Church Door"
+    },
+    "11e16acd4e39425a9297fdc1ffc8f63a.16": {
+      "guid": "11e16acd4e39425a9297fdc1ffc8f63a.16",
+      "lat": 48.146883,
+      "lng": 17.1189,
+      "name": "Erb Lekaren"
+    },
+    "842d75eff7e0420eb979774a85fcc65f.16": {
+      "guid": "842d75eff7e0420eb979774a85fcc65f.16",
+      "lat": 48.146728,
+      "lng": 17.120111,
+      "name": "Čudo Street Art"
+    },
+    "74ceab47f0024a02b046c014636ec650.16": {
+      "guid": "74ceab47f0024a02b046c014636ec650.16",
+      "lat": 48.146816,
+      "lng": 17.120798,
+      "name": "Mimon"
+    },
+    "0762ecfd825a4647a199041c5d9803f3.16": {
+      "guid": "0762ecfd825a4647a199041c5d9803f3.16",
+      "lat": 48.14665,
+      "lng": 17.121607,
+      "name": "Bismoli"
+    },
+    "1b08b5ce71294ea987168d8d23bb9cc7.16": {
+      "guid": "1b08b5ce71294ea987168d8d23bb9cc7.16",
+      "lat": 48.146466,
+      "lng": 17.122115,
+      "name": "2 Angels"
+    },
+    "d9286d8bd1394a07af11d713982d67e4.16": {
+      "guid": "d9286d8bd1394a07af11d713982d67e4.16",
+      "lat": 48.145664,
+      "lng": 17.122432,
+      "name": "Zezlo"
+    },
+    "a1f72416e17f43678713f83c5fbb3d22.16": {
+      "guid": "a1f72416e17f43678713f83c5fbb3d22.16",
+      "lat": 48.146046,
+      "lng": 17.119259,
+      "name": "Maxov Dom"
+    },
+    "c64a869234b147eaa660f1f1741aec4e.16": {
+      "guid": "c64a869234b147eaa660f1f1741aec4e.16",
+      "lat": 48.146077,
+      "lng": 17.118292,
+      "name": "Park Dunajská"
+    },
+    "fd3362aaef024ed096f7923067a55d6e.16": {
+      "guid": "fd3362aaef024ed096f7923067a55d6e.16",
+      "lat": 48.146456,
+      "lng": 17.116848,
+      "name": "Caffe Axioma Gallery"
+    },
+    "978449b530eb4cf5a227528acc32a5c7.16": {
+      "guid": "978449b530eb4cf5a227528acc32a5c7.16",
+      "lat": 48.14577,
+      "lng": 17.117121,
+      "name": "Robotnicky Spolok"
+    },
+    "51beb4b1a1114fc1a0b92e8e5845458b.16": {
+      "guid": "51beb4b1a1114fc1a0b92e8e5845458b.16",
+      "lat": 48.145666,
+      "lng": 17.120028,
+      "name": "Second of Two Twins"
+    },
+    "0dc3341f22284dbf98344c0413a26dca.16": {
+      "guid": "0dc3341f22284dbf98344c0413a26dca.16",
+      "lat": 48.145406,
+      "lng": 17.12184,
+      "name": "Saint Vlad Ornaments"
+    },
+    "cdb0c437c1e24d44aaffa7130ce08b34.16": {
+      "guid": "cdb0c437c1e24d44aaffa7130ce08b34.16",
+      "lat": 48.144751,
+      "lng": 17.118612,
+      "name": "Doc. MUDr. Ivan Stodola - Pamatnik"
+    },
+    "9a933ec44fee4727b9403d0bb215fb98.16": {
+      "guid": "9a933ec44fee4727b9403d0bb215fb98.16",
+      "lat": 48.157375,
+      "lng": 17.111323,
+      "name": "Devil"
+    },
+    "8e67807db21047ef931c6f315a583432.16": {
+      "guid": "8e67807db21047ef931c6f315a583432.16",
+      "lat": 48.157453,
+      "lng": 17.104445,
+      "name": "Wooden Bishop"
+    },
+    "2d5da91a761c4dbb879255a4a39ae7e7.12": {
+      "guid": "2d5da91a761c4dbb879255a4a39ae7e7.12",
+      "lat": 48.159944,
+      "lng": 17.103419,
+      "name": "Prazska Relief"
+    },
+    "d0cf6d54712146deaa79363fe159dc8b.16": {
+      "guid": "d0cf6d54712146deaa79363fe159dc8b.16",
+      "lat": 48.158984,
+      "lng": 17.105552,
+      "name": "Post Office Hlavna Stanica"
+    },
+    "c338aa029e564fd99d1075738dde93dc.16": {
+      "guid": "c338aa029e564fd99d1075738dde93dc.16",
+      "lat": 48.155196,
+      "lng": 17.114363,
+      "name": "Björnson"
+    },
+    "fcc80eb81ea04eb6812d6ad9fe9c7216.16": {
+      "guid": "fcc80eb81ea04eb6812d6ad9fe9c7216.16",
+      "lat": 48.154673,
+      "lng": 17.113525,
+      "name": "Playground Bjornsonova"
+    },
+    "ccc0cf8c92814880b731186e11b72d52.16": {
+      "guid": "ccc0cf8c92814880b731186e11b72d52.16",
+      "lat": 48.154741,
+      "lng": 17.113072,
+      "name": "Abstraktná socha"
+    },
+    "bb56991b5f864aa187b00fefd570be82.16": {
+      "guid": "bb56991b5f864aa187b00fefd570be82.16",
+      "lat": 48.155701,
+      "lng": 17.109587,
+      "name": "Lacinka"
+    },
+    "7777d8b59ef848298927f3bcdf19010b.16": {
+      "guid": "7777d8b59ef848298927f3bcdf19010b.16",
+      "lat": 48.155959,
+      "lng": 17.109622,
+      "name": "stlporadie"
+    },
+    "7179ab90ac194d708393ed18ca19a568.16": {
+      "guid": "7179ab90ac194d708393ed18ca19a568.16",
+      "lat": 48.155052,
+      "lng": 17.109875,
+      "name": "Fontánka MFSR"
+    },
+    "10ffab871f3a4ec692ec2a3d307a2de9.16": {
+      "guid": "10ffab871f3a4ec692ec2a3d307a2de9.16",
+      "lat": 48.154959,
+      "lng": 17.109462,
+      "name": "Ministerstvo Financií Slovenskej Republiky"
+    },
+    "1431ef74de424beb99ce8cecbf5a47b9.16": {
+      "guid": "1431ef74de424beb99ce8cecbf5a47b9.16",
+      "lat": 48.155064,
+      "lng": 17.109,
+      "name": "Úrad pre normalizaciu,meterologiu  a skušobnictvo"
+    },
+    "913a403c0f6249b49414173678475aee.16": {
+      "guid": "913a403c0f6249b49414173678475aee.16",
+      "lat": 48.154403,
+      "lng": 17.107339,
+      "name": "Hermes"
+    },
+    "e270d517846e413bbdba1ce93c3d07d4.16": {
+      "guid": "e270d517846e413bbdba1ce93c3d07d4.16",
+      "lat": 48.153836,
+      "lng": 17.108049,
+      "name": "Elektricke Drahy"
+    },
+    "e2e00959bc3046e3a984e631d256b1f4.16": {
+      "guid": "e2e00959bc3046e3a984e631d256b1f4.16",
+      "lat": 48.154146,
+      "lng": 17.109748,
+      "name": "Chlapec"
+    },
+    "e995e7a5027e442bbf943eb6a82d528d.16": {
+      "guid": "e995e7a5027e442bbf943eb6a82d528d.16",
+      "lat": 48.153554,
+      "lng": 17.109779,
+      "name": "Socha Sv. Juraja"
+    },
+    "488fa4318b5449538d66eed0f7e0fa3f.12": {
+      "guid": "488fa4318b5449538d66eed0f7e0fa3f.12",
+      "lat": 48.153924,
+      "lng": 17.110237,
+      "name": "Marek Culen Memorial"
+    },
+    "1aea88f819084cc496c1ba358c875591.16": {
+      "guid": "1aea88f819084cc496c1ba358c875591.16",
+      "lat": 48.152803,
+      "lng": 17.106696,
+      "name": "Slovenská záručná a rozvojová banka Bratislava"
+    },
+    "55b5658201cd4544b4bf8659d2fc8c0d.16": {
+      "guid": "55b5658201cd4544b4bf8659d2fc8c0d.16",
+      "lat": 48.152252,
+      "lng": 17.106529,
+      "name": "Pizstoryho Palac"
+    },
+    "b75d201629b34fca86f99d1f3ad6c1b6.16": {
+      "guid": "b75d201629b34fca86f99d1f3ad6c1b6.16",
+      "lat": 48.151039,
+      "lng": 17.111797,
+      "name": "Robosi Na Stene"
+    },
+    "c9b98cbcab10463aae5b2976c897e227.16": {
+      "guid": "c9b98cbcab10463aae5b2976c897e227.16",
+      "lat": 48.151605,
+      "lng": 17.111759,
+      "name": "Savage Garden"
+    },
+    "0c7eded6db46426cbc143459994a40fa.16": {
+      "guid": "0c7eded6db46426cbc143459994a40fa.16",
+      "lat": 48.151576,
+      "lng": 17.111089,
+      "name": "STU Architekti"
+    },
+    "5ed8797e08e245d088674465969a8520.16": {
+      "guid": "5ed8797e08e245d088674465969a8520.16",
+      "lat": 48.151584,
+      "lng": 17.110605,
+      "name": "Gazdinky"
+    },
+    "29e0d492875f4580b93e5811186730f0.16": {
+      "guid": "29e0d492875f4580b93e5811186730f0.16",
+      "lat": 48.151194,
+      "lng": 17.110321,
+      "name": "Stamped House"
+    },
+    "0900bc4bf32f4573b442baacad8faf42.16": {
+      "guid": "0900bc4bf32f4573b442baacad8faf42.16",
+      "lat": 48.151935,
+      "lng": 17.109811,
+      "name": "Citat"
+    },
+    "dd2c1ff3f900403b8a8d5c759aa77780.12": {
+      "guid": "dd2c1ff3f900403b8a8d5c759aa77780.12",
+      "lat": 48.152597,
+      "lng": 17.11086,
+      "name": "Krylov kameň"
+    },
+    "4c051e1494634886be4d7e4d13770088.16": {
+      "guid": "4c051e1494634886be4d7e4d13770088.16",
+      "lat": 48.152611,
+      "lng": 17.112012,
+      "name": "Workout Cvičisko"
+    },
+    "3bba915858df40099eb1dafceb70470a.16": {
+      "guid": "3bba915858df40099eb1dafceb70470a.16",
+      "lat": 48.151246,
+      "lng": 17.112578,
+      "name": "STU Strojnicka ||"
+    },
+    "0c344170ab9e43c5bcc641e85e4597c6.16": {
+      "guid": "0c344170ab9e43c5bcc641e85e4597c6.16",
+      "lat": 48.15162,
+      "lng": 17.11299,
+      "name": "STU Strojnicka I"
+    },
+    "b6db56768c814e04b7ea6b6a836b26a5.16": {
+      "guid": "b6db56768c814e04b7ea6b6a836b26a5.16",
+      "lat": 48.152919,
+      "lng": 17.114508,
+      "name": "Narodna Banka Slovenska"
+    },
+    "70a2654d3a534be19a7df53bb658f41e.12": {
+      "guid": "70a2654d3a534be19a7df53bb658f41e.12",
+      "lat": 48.152944,
+      "lng": 17.114058,
+      "name": "Biatec"
+    },
+    "6fc768bb3190440885453059d939b08c.16": {
+      "guid": "6fc768bb3190440885453059d939b08c.16",
+      "lat": 48.15331,
+      "lng": 17.1142,
+      "name": "Tin Hand"
+    },
+    "e0b1b1be062f4bf8adbaa0e04def734f.16": {
+      "guid": "e0b1b1be062f4bf8adbaa0e04def734f.16",
+      "lat": 48.153375,
+      "lng": 17.116168,
+      "name": "Faces Artwork Graffity"
+    },
+    "d689394a14434cb3b64bda258ac30850.16": {
+      "guid": "d689394a14434cb3b64bda258ac30850.16",
+      "lat": 48.154516,
+      "lng": 17.115872,
+      "name": "Symbol lekarstva"
+    },
+    "a26f7ac70fbe47819f19c180e3230276.16": {
+      "guid": "a26f7ac70fbe47819f19c180e3230276.16",
+      "lat": 48.15476,
+      "lng": 17.116333,
+      "name": "Figures at Mytna"
+    },
+    "97471531daf142d094bba299c89e10fe.16": {
+      "guid": "97471531daf142d094bba299c89e10fe.16",
+      "lat": 48.154233,
+      "lng": 17.116728,
+      "name": "Ivan Vazov"
+    },
+    "120889545fbb478f90f055f22e0c4567.16": {
+      "guid": "120889545fbb478f90f055f22e0c4567.16",
+      "lat": 48.154429,
+      "lng": 17.117611,
+      "name": "Slovenska Technicka Univerzita"
+    },
+    "d48c0928e8af4df3a8bcb8f7e33d1434.16": {
+      "guid": "d48c0928e8af4df3a8bcb8f7e33d1434.16",
+      "lat": 48.154419,
+      "lng": 17.118078,
+      "name": "Busta Jozefa Murgasa"
+    },
+    "748bbe90ad8f44c08fb6ef54b78cabab.16": {
+      "guid": "748bbe90ad8f44c08fb6ef54b78cabab.16",
+      "lat": 48.154454,
+      "lng": 17.118994,
+      "name": "Fireman Statue"
+    },
+    "08a8e3410bb74a9c8d44b39cad09afd0.16": {
+      "guid": "08a8e3410bb74a9c8d44b39cad09afd0.16",
+      "lat": 48.153988,
+      "lng": 17.120716,
+      "name": "Vazovova Grafitti"
+    },
+    "06a1d56e356941559dc217250b8182f6.16": {
+      "guid": "06a1d56e356941559dc217250b8182f6.16",
+      "lat": 48.152952,
+      "lng": 17.120162,
+      "name": "Lezecka Stena"
+    },
+    "997cec6804964c2990acb2afdee2b304.16": {
+      "guid": "997cec6804964c2990acb2afdee2b304.16",
+      "lat": 48.153192,
+      "lng": 17.119018,
+      "name": "INRI"
+    },
+    "651475dc66704d7893485847aa4139db.16": {
+      "guid": "651475dc66704d7893485847aa4139db.16",
+      "lat": 48.1511,
+      "lng": 17.115482,
+      "name": "STU"
+    },
+    "d0a96535da084651814f5f858488dca3.16": {
+      "guid": "d0a96535da084651814f5f858488dca3.16",
+      "lat": 48.150724,
+      "lng": 17.116222,
+      "name": "Socha pri Bufete"
+    },
+    "fbd1de3a721a4e679ae675498a8bc8a7.16": {
+      "guid": "fbd1de3a721a4e679ae675498a8bc8a7.16",
+      "lat": 48.150267,
+      "lng": 17.117735,
+      "name": "dekanat lekarskej fakulty"
+    },
+    "8e6713ff4f8c48219abed081707c2247.16": {
+      "guid": "8e6713ff4f8c48219abed081707c2247.16",
+      "lat": 48.150385,
+      "lng": 17.118258,
+      "name": "Pidgeon Fountain"
+    },
+    "f66aac4e14924da2a4c4b08cbc88fdbb.12": {
+      "guid": "f66aac4e14924da2a4c4b08cbc88fdbb.12",
+      "lat": 48.150813,
+      "lng": 17.117214,
+      "name": "troj hlava"
+    },
+    "1098b6398f1042fda035af89dcf83e87.16": {
+      "guid": "1098b6398f1042fda035af89dcf83e87.16",
+      "lat": 48.151098,
+      "lng": 17.118175,
+      "name": "Fountain American Square"
+    },
+    "960302fca11949c3a8140252dce32303.12": {
+      "guid": "960302fca11949c3a8140252dce32303.12",
+      "lat": 48.149993,
+      "lng": 17.119767,
+      "name": "fontána labute"
+    },
+    "a3f726e810234a81ad667fe9bd02d5f4.12": {
+      "guid": "a3f726e810234a81ad667fe9bd02d5f4.12",
+      "lat": 48.149871,
+      "lng": 17.120655,
+      "name": "Petőfi Sándor monument"
+    },
+    "6945689041ea4c16ade944b0560a19d8.16": {
+      "guid": "6945689041ea4c16ade944b0560a19d8.16",
+      "lat": 48.150017,
+      "lng": 17.121211,
+      "name": "Joker"
+    },
+    "2962464b09994a4c98c81983beaed570.16": {
+      "guid": "2962464b09994a4c98c81983beaed570.16",
+      "lat": 48.151427,
+      "lng": 17.119996,
+      "name": "ustavy lekarskej fakulty uk"
+    },
+    "307894aa9f6e460984e1d1795ceceae6.16": {
+      "guid": "307894aa9f6e460984e1d1795ceceae6.16",
+      "lat": 48.151624,
+      "lng": 17.120788,
+      "name": "Relief Pri Vstupe Pg.fakulty"
+    },
+    "ba85bfcc9af34655864f69e8fe5af9c6.16": {
+      "guid": "ba85bfcc9af34655864f69e8fe5af9c6.16",
+      "lat": 48.150978,
+      "lng": 17.121614,
+      "name": "Rohova Miestnost"
+    },
+    "a033ac1818fa424fbd9d1b9651ecc127.16": {
+      "guid": "a033ac1818fa424fbd9d1b9651ecc127.16",
+      "lat": 48.149198,
+      "lng": 17.124617,
+      "name": "Psie Cvicisko"
+    },
+    "cb938cf4702f48b986245665dc2992a2.12": {
+      "guid": "cb938cf4702f48b986245665dc2992a2.12",
+      "lat": 48.151341,
+      "lng": 17.122769,
+      "name": "Merius"
+    },
+    "4fded8f9a12a48608716913503f9d0e9.12": {
+      "guid": "4fded8f9a12a48608716913503f9d0e9.12",
+      "lat": 48.15233,
+      "lng": 17.122299,
+      "name": "Fontána Nataša"
+    },
+    "0a56b29c705948eca72e1c9a2cdb582e.12": {
+      "guid": "0a56b29c705948eca72e1c9a2cdb582e.12",
+      "lat": 48.153339,
+      "lng": 17.122284,
+      "name": "Zrkadlo casu"
+    },
+    "6d681f5f234344fc978fc1c4e8a794b2.16": {
+      "guid": "6d681f5f234344fc978fc1c4e8a794b2.16",
+      "lat": 48.153198,
+      "lng": 17.122793,
+      "name": "Martin Benka"
+    },
+    "120f2f9a9bed4c73b6c3de727ffb3098.16": {
+      "guid": "120f2f9a9bed4c73b6c3de727ffb3098.16",
+      "lat": 48.152863,
+      "lng": 17.123553,
+      "name": "Fontána Marta"
+    },
+    "9f8fa75c717a4f96ae51016ee2d4961d.16": {
+      "guid": "9f8fa75c717a4f96ae51016ee2d4961d.16",
+      "lat": 48.151582,
+      "lng": 17.125446,
+      "name": "Vuk Stefanovic Karadžič"
+    },
+    "f8ce3885413e453a98d3da4adc46c7ad.16": {
+      "guid": "f8ce3885413e453a98d3da4adc46c7ad.16",
+      "lat": 48.151605,
+      "lng": 17.126202,
+      "name": "T-Rex"
+    },
+    "10203090be064e5cba24d44b4f69016a.16": {
+      "guid": "10203090be064e5cba24d44b4f69016a.16",
+      "lat": 48.153623,
+      "lng": 17.126053,
+      "name": "ArtSrot Gallery"
+    },
+    "ee581046b46642d89036dc64fcdfe576.12": {
+      "guid": "ee581046b46642d89036dc64fcdfe576.12",
+      "lat": 48.153388,
+      "lng": 17.125288,
+      "name": "Akt zeny (Zuzka)"
+    },
+    "4da33603c8584e8c886b6cc58443a0da.12": {
+      "guid": "4da33603c8584e8c886b6cc58443a0da.12",
+      "lat": 48.15919,
+      "lng": 17.117887,
+      "name": "vesmír"
+    },
+    "8d567723d0354b649ce89d8a61cfcfdf.12": {
+      "guid": "8d567723d0354b649ce89d8a61cfcfdf.12",
+      "lat": 48.159072,
+      "lng": 17.11897,
+      "name": "Slnecny kon"
+    },
+    "aa9564112dcd4fcfb784b25a8c894403.16": {
+      "guid": "aa9564112dcd4fcfb784b25a8c894403.16",
+      "lat": 48.155666,
+      "lng": 17.112501,
+      "name": "Old Town market"
+    },
+    "0eace0bab1ef43ad841632e2563fd010.11": {
+      "guid": "0eace0bab1ef43ad841632e2563fd010.11",
+      "lat": 48.155208,
+      "lng": 17.11971,
+      "name": "Dom Hasicov "
+    },
+    "e09f17f79d98496785bc2baa0997bd33.16": {
+      "guid": "e09f17f79d98496785bc2baa0997bd33.16",
+      "lat": 48.155132,
+      "lng": 17.121035,
+      "name": "Andrej Kmet"
+    },
+    "ba731754cbd6400fa5e2b2c83274d911.16": {
+      "guid": "ba731754cbd6400fa5e2b2c83274d911.16",
+      "lat": 48.156111,
+      "lng": 17.122047,
+      "name": "Evanjelicky kostol"
+    },
+    "657e1c3601b54074938cf303bed45533.16": {
+      "guid": "657e1c3601b54074938cf303bed45533.16",
+      "lat": 48.15591,
+      "lng": 17.1229,
+      "name": "Ihrisko Stein"
+    },
+    "1f6d92530fb546b59af8e590c17ef43a.16": {
+      "guid": "1f6d92530fb546b59af8e590c17ef43a.16",
+      "lat": 48.156002,
+      "lng": 17.120121,
+      "name": "Relief na Bernolaku"
+    },
+    "3a5ac63cc09d4fccbb83e51192588b0c.16": {
+      "guid": "3a5ac63cc09d4fccbb83e51192588b0c.16",
+      "lat": 48.155734,
+      "lng": 17.11853,
+      "name": "Ihrisko Nová Mýtna"
+    },
+    "7413fff928ff491e8a35d68695e5bf94.16": {
+      "guid": "7413fff928ff491e8a35d68695e5bf94.16",
+      "lat": 48.156152,
+      "lng": 17.116339,
+      "name": "City library in a quiet neighborhood"
+    },
+    "838bda23639d40dd90789337ddca8cfc.16": {
+      "guid": "838bda23639d40dd90789337ddca8cfc.16",
+      "lat": 48.15723,
+      "lng": 17.116287,
+      "name": "Zlievaren Erb"
+    },
+    "386d66e0ac084c8ca9b7417a2c690e2a.16": {
+      "guid": "386d66e0ac084c8ca9b7417a2c690e2a.16",
+      "lat": 48.156776,
+      "lng": 17.116918,
+      "name": "Ihrisko Mýtna"
+    },
+    "408510283eaf4d37afd8b60769a721e6.11": {
+      "guid": "408510283eaf4d37afd8b60769a721e6.11",
+      "lat": 48.157094,
+      "lng": 17.117874,
+      "name": "Vavro"
+    },
+    "fadbfbb2109843a59b91406477d11722.16": {
+      "guid": "fadbfbb2109843a59b91406477d11722.16",
+      "lat": 48.15721,
+      "lng": 17.117386,
+      "name": "Antique"
+    },
+    "52b9fe3daa0943649fe5705c754e927f.16": {
+      "guid": "52b9fe3daa0943649fe5705c754e927f.16",
+      "lat": 48.156938,
+      "lng": 17.118721,
+      "name": "Starozitnictvo Mytna"
+    },
+    "c59dcf7ad5914516acb42d880c6b1e0b.16": {
+      "guid": "c59dcf7ad5914516acb42d880c6b1e0b.16",
+      "lat": 48.158151,
+      "lng": 17.120266,
+      "name": "Stlp Na Racianskom Myte"
+    },
+    "3cc5ed9cad9c470f80130eec38fd51fd.16": {
+      "guid": "3cc5ed9cad9c470f80130eec38fd51fd.16",
+      "lat": 48.156975,
+      "lng": 17.12044,
+      "name": "Samo Chalupka"
+    },
+    "cd753c70ae7d43ee960edea48bc8f5ba.16": {
+      "guid": "cd753c70ae7d43ee960edea48bc8f5ba.16",
+      "lat": 48.158159,
+      "lng": 17.118246,
+      "name": "Mysterious Boxes"
+    },
+    "f863600a577f48fb831f44a5686285b9.16": {
+      "guid": "f863600a577f48fb831f44a5686285b9.16",
+      "lat": 48.158463,
+      "lng": 17.119841,
+      "name": "Pamatna Tabula Parku na Racku"
+    },
+    "660ed840d0464565bc97e0913ed59acd.16": {
+      "guid": "660ed840d0464565bc97e0913ed59acd.16",
+      "lat": 48.153788,
+      "lng": 17.126849,
+      "name": "Red Car"
+    },
+    "630da803f7134e268d1a37dad6d221be.16": {
+      "guid": "630da803f7134e268d1a37dad6d221be.16",
+      "lat": 48.154679,
+      "lng": 17.123244,
+      "name": "Matka s dietatom"
+    },
+    "d0b3010723c04e78ab544085f32120ef.16": {
+      "guid": "d0b3010723c04e78ab544085f32120ef.16",
+      "lat": 48.154967,
+      "lng": 17.123718,
+      "name": "Ceasar Club"
+    },
+    "00be7a080ade40e6a5779ff340e42587.16": {
+      "guid": "00be7a080ade40e6a5779ff340e42587.16",
+      "lat": 48.155933,
+      "lng": 17.124906,
+      "name": "Prva konska zeleznica"
+    },
+    "de807ba7c7c04a9d9029a8c257786ef4.16": {
+      "guid": "de807ba7c7c04a9d9029a8c257786ef4.16",
+      "lat": 48.154955,
+      "lng": 17.124954,
+      "name": "Relief Karadzicova"
+    },
+    "32cae1cb6e4546a6b455f8bd8a44de7c.16": {
+      "guid": "32cae1cb6e4546a6b455f8bd8a44de7c.16",
+      "lat": 48.156121,
+      "lng": 17.126694,
+      "name": "Ludwigov mlyn"
+    },
+    "a5532c497cc344fb84c408cdb4dfa815.16": {
+      "guid": "a5532c497cc344fb84c408cdb4dfa815.16",
+      "lat": 48.15652,
+      "lng": 17.129552,
+      "name": "vcielka"
     }
   },
   "notpogo": {
